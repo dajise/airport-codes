@@ -21,7 +21,7 @@
       "IATA code": "ABZ"
     },
     {
-      "City/Airport": "Aberdeen (SD)",
+      "City/Airport": "Aberdeen",
       "Country": "USA",
       "IATA code": "ABR"
     },
@@ -36,12 +36,12 @@
       "IATA code": "ABI"
     },
     {
-      "City/Airport": "Abu Dhabi - Abu Dhabi International",
+      "City/Airport": "Abu Dhabi",
       "Country": "United Arab Emirates",
       "IATA code": "AUH"
     },
     {
-      "City/Airport": "Abuja - Nnamdi Azikiwe International Airport",
+      "City/Airport": "Abuja",
       "Country": "Nigeria",
       "IATA code": "ABV"
     },
@@ -61,7 +61,7 @@
       "IATA code": "ACA"
     },
     {
-      "City/Airport": "Accra - Kotoka International Airport",
+      "City/Airport": "Accra",
       "Country": "Ghana",
       "IATA code": "ACC"
     },
@@ -71,7 +71,7 @@
       "IATA code": "ADA"
     },
     {
-      "City/Airport": "Addis Ababa - Bole International Airport",
+      "City/Airport": "Addis Ababa",
       "Country": "Ethiopia",
       "IATA code": "ADD"
     },
@@ -81,7 +81,7 @@
       "IATA code": "ADL"
     },
     {
-      "City/Airport": "Aden - Aden International Airport",
+      "City/Airport": "Aden",
       "Country": "Yemen",
       "IATA code": "ADE"
     },
@@ -151,7 +151,7 @@
       "IATA code": "CAK"
     },
     {
-      "City/Airport": "Akrotiri - RAF",
+      "City/Airport": "Akrotiri",
       "Country": "Cyprus",
       "IATA code": "AKT"
     },
@@ -176,7 +176,7 @@
       "IATA code": "ABY"
     },
     {
-      "City/Airport": "Albany (NY) - Albany International Airport",
+      "City/Airport": "Albany",
       "Country": "USA",
       "IATA code": "ALB"
     },
@@ -216,27 +216,27 @@
       "IATA code": "AES"
     },
     {
-      "City/Airport": "Alexander Bay - Kortdoorn",
+      "City/Airport": "Alexander Bay",
       "Country": "South Africa",
       "IATA code": "ALJ"
     },
     {
-      "City/Airport": "Alexandria - Borg el Arab Airport",
+      "City/Airport": "Alexandria",
       "Country": "Egypt",
       "IATA code": "HBH"
     },
     {
-      "City/Airport": "Alexandria - El Nhouza Airport",
+      "City/Airport": "Alexandria",
       "Country": "Egypt",
       "IATA code": "ALY"
     },
     {
-      "City/Airport": "Alexandria - Esler Field",
+      "City/Airport": "Alexandria",
       "Country": "USA (LA)",
       "IATA code": "ESF"
     },
     {
-      "City/Airport": "Alfujairah (Fujairah)",
+      "City/Airport": "Alfujairah",
       "Country": "United Arab Emirates",
       "IATA code": "FJR"
     },
@@ -246,7 +246,7 @@
       "IATA code": "AHO"
     },
     {
-      "City/Airport": "Algiers, Houari Boumediene Airport",
+      "City/Airport": "Algiers",
       "Country": "Algeria",
       "IATA code": "ALG"
     },
@@ -276,7 +276,7 @@
       "IATA code": "ABE"
     },
     {
-      "City/Airport": "Almaty (Alma Ata) - Almaty International Airport",
+      "City/Airport": "Almaty",
       "Country": "Kazakhstan",
       "IATA code": "ALA"
     },
@@ -326,12 +326,12 @@
       "IATA code": "AZB"
     },
     {
-      "City/Airport": "Amman - Queen Alia International Airport",
+      "City/Airport": "Amman",
       "Country": "Jordan",
       "IATA code": "AMM"
     },
     {
-      "City/Airport": "Amman - Amman-Marka International Airport",
+      "City/Airport": "Amman",
       "Country": "Jordan",
       "IATA code": "ADJ"
     },
@@ -341,7 +341,7 @@
       "IATA code": "ATQ"
     },
     {
-      "City/Airport": "Amsterdam - Amsterdam Airport Schiphol",
+      "City/Airport": "Amsterdam",
       "Country": "Netherlands",
       "IATA code": "AMS"
     },
@@ -351,17 +351,17 @@
       "IATA code": "QNB"
     },
     {
-      "City/Airport": "Anchorage (AK) - Ted Stevens Anchorage International",
+      "City/Airport": "Anchorage (AK)",
       "Country": "USA",
       "IATA code": "ANC"
     },
     {
-      "City/Airport": "Ancona - Ancona Falconara Airport",
+      "City/Airport": "Ancona",
       "Country": "Italy",
       "IATA code": "AOI"
     },
     {
-      "City/Airport": "Andorra La Vella - Heliport",
+      "City/Airport": "Andorra La Vella",
       "Country": "Andorra",
       "IATA code": "ALV"
     },
@@ -371,7 +371,7 @@
       "IATA code": "AXA"
     },
     {
-      "City/Airport": "Anjouan - Anjouan Airport",
+      "City/Airport": "Anjouan",
       "Country": "Comoros (Comores)",
       "IATA code": "AJN"
     },
@@ -381,7 +381,7 @@
       "IATA code": "ANK"
     },
     {
-      "City/Airport": "Ankara - Esenboğa International Airport",
+      "City/Airport": "Ankara",
       "Country": "Turkey",
       "IATA code": "ESB"
     },
@@ -411,7 +411,7 @@
       "IATA code": "AYT"
     },
     {
-      "City/Airport": "Antananarivo (Tanannarive) - Ivato International Airport",
+      "City/Airport": "Antananarivo (Tanannarive)",
       "Country": "Madagascar",
       "IATA code": "TNR"
     },
@@ -431,7 +431,7 @@
       "IATA code": "AOJ"
     },
     {
-      "City/Airport": "Apia - Faleolo International Airport",
+      "City/Airport": "Apia",
       "Country": "Samoa",
       "IATA code": "APW"
     },
@@ -476,7 +476,7 @@
       "IATA code": "ACE"
     },
     {
-      "City/Airport": "Aruba - Reina Beatrix International, Oranjestad",
+      "City/Airport": "Aruba",
       "Country": "Aruba",
       "IATA code": "AUA"
     },
@@ -486,17 +486,17 @@
       "IATA code": "AVL"
     },
     {
-      "City/Airport": "Ashgabat - Saparmurat Turkmenbashy Int. Airport",
+      "City/Airport": "Ashgabat",
       "Country": "Turkmenistan",
       "IATA code": "ASB"
     },
     {
-      "City/Airport": "Asmara - Asmara International",
+      "City/Airport": "Asmara",
       "Country": "Eritrea",
       "IATA code": "ASM"
     },
     {
-      "City/Airport": "Aspen, (CO) - Aspen-Pitkin County Airport",
+      "City/Airport": "Aspen, (CO)",
       "Country": "USA",
       "IATA code": "ASE"
     },
@@ -506,22 +506,22 @@
       "IATA code": "ATZ"
     },
     {
-      "City/Airport": "Astana - Astana International Airport",
+      "City/Airport": "Astana",
       "Country": "Kazakhstan",
       "IATA code": "TSE"
     },
     {
-      "City/Airport": "Asuncion - Asunción International Airport",
+      "City/Airport": "Asuncion",
       "Country": "Paraguay",
       "IATA code": "ASU"
     },
     {
-      "City/Airport": "Aswan - Daraw Airport",
+      "City/Airport": "Aswan",
       "Country": "Egypt",
       "IATA code": "ASW"
     },
     {
-      "City/Airport": "Athens - Elefthérios Venizélos International Airport",
+      "City/Airport": "Athens",
       "Country": "Greece",
       "IATA code": "ATH"
     },
@@ -541,12 +541,12 @@
       "IATA code": "ATO"
     },
     {
-      "City/Airport": "Atlanta (GA) - Hartsfield Atlanta International Airport",
+      "City/Airport": "Atlanta (GA)",
       "Country": "USA",
       "IATA code": "ATL"
     },
     {
-      "City/Airport": "Atlantic City (NJ) - Atlantic City International",
+      "City/Airport": "Atlantic City (NJ)",
       "Country": "USA",
       "IATA code": "ACY"
     },
@@ -556,12 +556,12 @@
       "IATA code": "YAT"
     },
     {
-      "City/Airport": "Auckland - Auckland International Airport",
+      "City/Airport": "Auckland",
       "Country": "New Zealand",
       "IATA code": "AKL"
     },
     {
-      "City/Airport": "Augsburg - Augsbur gAirport",
+      "City/Airport": "Augsburg",
       "Country": "Germany",
       "IATA code": "AGB"
     },
@@ -571,7 +571,7 @@
       "IATA code": "AGS"
     },
     {
-      "City/Airport": "Augusta (ME) - Augusta State Airport",
+      "City/Airport": "Augusta (ME)",
       "Country": "USA",
       "IATA code": "AUG"
     },
@@ -581,7 +581,7 @@
       "IATA code": "AUR"
     },
     {
-      "City/Airport": "Austin (TX) - Austin-Bergstrom Airport",
+      "City/Airport": "Austin (TX)",
       "Country": "USA",
       "IATA code": "AUS"
     },
@@ -591,7 +591,7 @@
       "IATA code": "AYW"
     },
     {
-      "City/Airport": "Ayers Rock - Connellan",
+      "City/Airport": "Ayers Rock",
       "Country": "Australia",
       "IATA code": "AYQ"
     },
@@ -609,7 +609,7 @@
       "IATA code": "BJZ"
     },
     {
-      "City/Airport": "Bagdad - Baghdad International Airport",
+      "City/Airport": "Bagdad",
       "Country": "Iraq",
       "IATA code": "BGW"
     },
@@ -619,7 +619,7 @@
       "IATA code": "IXB"
     },
     {
-      "City/Airport": "Bahamas - Lynden Pindling International Airport",
+      "City/Airport": "Bahamas",
       "Country": "The Bahamas",
       "IATA code": "NAS"
     },
@@ -629,7 +629,7 @@
       "IATA code": "BHV"
     },
     {
-      "City/Airport": "Bahrain - Bahrain International Airport",
+      "City/Airport": "Bahrain",
       "Country": "Bahrain",
       "IATA code": "BAH"
     },
@@ -639,7 +639,7 @@
       "IATA code": "BFL"
     },
     {
-      "City/Airport": "Baku - Heydar Aliyev International Airport",
+      "City/Airport": "Baku",
       "Country": "Azerbaijan",
       "IATA code": "BAK"
     },
@@ -649,7 +649,7 @@
       "IATA code": "BNK"
     },
     {
-      "City/Airport": "Baltimore (MD) - Washington International Airport",
+      "City/Airport": "Baltimore (MD)",
       "Country": "USA",
       "IATA code": "BWI"
     },
@@ -659,7 +659,7 @@
       "IATA code": "ABM"
     },
     {
-      "City/Airport": "Bamako - Bamako-Sénou International Airport",
+      "City/Airport": "Bamako",
       "Country": "Mali",
       "IATA code": "BKO"
     },
@@ -669,12 +669,12 @@
       "IATA code": "BBY"
     },
     {
-      "City/Airport": "Bandar Seri Begawan - Brunei International Airport",
+      "City/Airport": "Bandar Seri Begawan",
       "Country": "Brunei",
       "IATA code": "BWN"
     },
     {
-      "City/Airport": "Bandung - Husein Sastranegara International Airport",
+      "City/Airport": "Bandung",
       "Country": "Indonesia",
       "IATA code": "BDO"
     },
@@ -704,12 +704,12 @@
       "IATA code": "BGR"
     },
     {
-      "City/Airport": "Bangui - M'Poko International Airport",
+      "City/Airport": "Bangui",
       "Country": "Central African Republic",
       "IATA code": "BGF"
     },
     {
-      "City/Airport": "Banjul - Banjul International Airport (Yundum International)",
+      "City/Airport": "Banjul",
       "Country": "Gambia",
       "IATA code": "BJL"
     },
@@ -774,12 +774,12 @@
       "IATA code": "BSR"
     },
     {
-      "City/Airport": "Basse-Terre - Pointe-à-Pitre International Airport",
+      "City/Airport": "Bass",
       "Country": "Guadeloupe",
       "IATA code": "PTP"
     },
     {
-      "City/Airport": "Basseterre - Robert L. Bradshaw International Airport",
+      "City/Airport": "Basseterre",
       "Country": "Saint Kitts and Nevis",
       "IATA code": "SKB"
     },
@@ -789,12 +789,12 @@
       "IATA code": "BIA"
     },
     {
-      "City/Airport": "Baton Rouge (LA) - Baton Rouge Metropolitan Airport",
+      "City/Airport": "Baton Rouge (LA)",
       "Country": "USA",
       "IATA code": "BTR"
     },
     {
-      "City/Airport": "Bayreuth - Bindlacher-Berg",
+      "City/Airport": "Bayreuth",
       "Country": "Germany",
       "IATA code": "BYU"
     },
@@ -809,7 +809,7 @@
       "IATA code": "BKW"
     },
     {
-      "City/Airport": "Beef Island - Terrance B. Lettsome",
+      "City/Airport": "Beef Island",
       "Country": "Virgin Islands (British)",
       "IATA code": "EIS"
     },
@@ -819,7 +819,7 @@
       "IATA code": "PEK"
     },
     {
-      "City/Airport": "Beijing - Nanyuan Airport",
+      "City/Airport": "Beijing",
       "Country": "China",
       "IATA code": "NAY"
     },
@@ -829,22 +829,22 @@
       "IATA code": "BEW"
     },
     {
-      "City/Airport": "Beirut - Beirut Rafic Hariri International Airport",
+      "City/Airport": "Beirut",
       "Country": "Lebanon",
       "IATA code": "BEY"
     },
     {
-      "City/Airport": "Belem - Val de Cans International Airport",
+      "City/Airport": "Belem",
       "Country": "Brazil",
       "IATA code": "BEL"
     },
     {
-      "City/Airport": "Belfast - George Best Belfast City Airport",
+      "City/Airport": "Belfast",
       "Country": "United Kingdom",
       "IATA code": "BHD"
     },
     {
-      "City/Airport": "Belfast - Belfast International Airport",
+      "City/Airport": "Belfast",
       "Country": "United Kingdom",
       "IATA code": "BFS"
     },
@@ -854,12 +854,12 @@
       "IATA code": "IXG"
     },
     {
-      "City/Airport": "Belgrad (Beograd) - Belgrade Nikola Tesla International",
+      "City/Airport": "Belgrad (Beograd)",
       "Country": "Serbia",
       "IATA code": "BEG"
     },
     {
-      "City/Airport": "Belize City - Philip S.W.Goldson International",
+      "City/Airport": "Belize City",
       "Country": "Belize",
       "IATA code": "BZE"
     },
@@ -869,7 +869,7 @@
       "IATA code": "BLI"
     },
     {
-      "City/Airport": "Belo Horizonte - Tancredo Neves International Airport",
+      "City/Airport": "Belo Horizonte",
       "Country": "Brazil",
       "IATA code": "CNF"
     },
@@ -904,7 +904,7 @@
       "IATA code": "BBT"
     },
     {
-      "City/Airport": "Bergamo/Milan - Orio Al Serio",
+      "City/Airport": "Bergamo/Milan",
       "Country": "Italy",
       "IATA code": "BGY"
     },
@@ -914,7 +914,7 @@
       "IATA code": "BGO"
     },
     {
-      "City/Airport": "Bergerac - Roumanieres",
+      "City/Airport": "Bergerac",
       "Country": "France",
       "IATA code": "EGC"
     },
@@ -939,12 +939,12 @@
       "IATA code": "THF"
     },
     {
-      "City/Airport": "Bermuda - L.F. Wade International Airport",
+      "City/Airport": "Bermuda",
       "Country": "Bermuda",
       "IATA code": "BDA"
     },
     {
-      "City/Airport": "Berne, Bern-Belp",
+      "City/Airport": "Berne, Ber",
       "Country": "Switzerland",
       "IATA code": "BRN"
     },
@@ -999,7 +999,7 @@
       "IATA code": "IRO"
     },
     {
-      "City/Airport": "Birmingham - Birmingham International Airport",
+      "City/Airport": "Birmingham",
       "Country": "United Kingdom",
       "IATA code": "BHX"
     },
@@ -1009,18 +1009,18 @@
       "IATA code": "BHM"
     },
     {
-      "City/Airport": "Bishkek - Manas International Airport",
+      "City/Airport": "Bishkek",
       "Country": "Kyrgyzstan",
       "IATA code": "FRU"
     },
     {
-      "City/Airport": "Bismarck (ND) - Bismarck Municipal Airport",
+      "City/Airport": "Bismarck (ND)",
       "Country": "USA",
       "IATA code": "BIS"
     },
     {
-      "City/Airport": "Bissau - Osvaldo Vieiro International Airport",
-      "Country": "Guinea-Bissau",
+      "City/Airport": "Bissau",
+      "Country": "Guine",
       "IATA code": "BXO"
     },
     {
@@ -1034,7 +1034,7 @@
       "IATA code": "BLT"
     },
     {
-      "City/Airport": "Blantyre (Mandala) - Chileka International Airport",
+      "City/Airport": "Blantyre (Mandala)",
       "Country": "Malawi",
       "IATA code": "BLZ"
     },
@@ -1044,7 +1044,7 @@
       "IATA code": "BHE"
     },
     {
-      "City/Airport": "Bloemfontein - Bloemfontein Airport",
+      "City/Airport": "Bloemfontein",
       "Country": "South Africa",
       "IATA code": "BFN"
     },
@@ -1079,17 +1079,17 @@
       "IATA code": "BOO"
     },
     {
-      "City/Airport": "Bodrum - Milas Airport",
+      "City/Airport": "Bodrum",
       "Country": "Turkey",
       "IATA code": "BJV"
     },
     {
-      "City/Airport": "Bogota - El Nuevo Dorado International Airport",
+      "City/Airport": "Bogota",
       "Country": "Colombia",
       "IATA code": "BOG"
     },
     {
-      "City/Airport": "Boise (ID) - Boise Air Terminal",
+      "City/Airport": "Boise (ID)",
       "Country": "USA",
       "IATA code": "BOI"
     },
@@ -1099,7 +1099,7 @@
       "IATA code": "BLQ"
     },
     {
-      "City/Airport": "Bombay (Mumbai) - Chhatrapati Shivaji International",
+      "City/Airport": "Bombay (Mumbai)",
       "Country": "India",
       "IATA code": "BOM"
     },
@@ -1119,7 +1119,7 @@
       "IATA code": "BOB"
     },
     {
-      "City/Airport": "Bordeaux - Bordeaux Airport",
+      "City/Airport": "Bordeaux",
       "Country": "France",
       "IATA code": "BOD"
     },
@@ -1129,7 +1129,7 @@
       "IATA code": "BXS"
     },
     {
-      "City/Airport": "Boston (MA) - General Edward Lawrence Logan",
+      "City/Airport": "Boston (MA)",
       "Country": "USA",
       "IATA code": "BOS"
     },
@@ -1174,22 +1174,22 @@
       "IATA code": "BMP"
     },
     {
-      "City/Airport": "Brasilia - President Juscelino Kubitschek International",
+      "City/Airport": "Brasilia",
       "Country": "Brazil",
       "IATA code": "BSB"
     },
     {
-      "City/Airport": "Bratislava - M. R. Štefánik Airport",
+      "City/Airport": "Bratislava",
       "Country": "Slovakia",
       "IATA code": "BTS"
     },
     {
-      "City/Airport": "Brazzaville - Maya-Maya Airport",
+      "City/Airport": "Brazzaville",
       "Country": "Congo (ROC)",
       "IATA code": "BZV"
     },
     {
-      "City/Airport": "Bremen - Bremen Airport (Flughafen Bremen)",
+      "City/Airport": "Bremen",
       "Country": "Germany",
       "IATA code": "BRE"
     },
@@ -1214,7 +1214,7 @@
       "IATA code": "BDR"
     },
     {
-      "City/Airport": "Bridgetown - Grantley Adams International",
+      "City/Airport": "Bridgetown",
       "Country": "Barbados",
       "IATA code": "BGI"
     },
@@ -1259,7 +1259,7 @@
       "IATA code": "BQK"
     },
     {
-      "City/Airport": "Brussels - Brussels Airport",
+      "City/Airport": "Brussels",
       "Country": "Belgium",
       "IATA code": "BRU"
     },
@@ -1274,12 +1274,12 @@
       "IATA code": "BUH"
     },
     {
-      "City/Airport": "Bucharest - Henri Coandă International Airport",
+      "City/Airport": "Bucharest",
       "Country": "Romania",
       "IATA code": "OTP"
     },
     {
-      "City/Airport": "Budapest - Budapest Ferihegy International Airport",
+      "City/Airport": "Budapest",
       "Country": "Hungary",
       "IATA code": "BUD"
     },
@@ -1309,7 +1309,7 @@
       "IATA code": "BUF"
     },
     {
-      "City/Airport": "Bujumbura - Bujumbura International Airport",
+      "City/Airport": "Bujumbura",
       "Country": "Burundi",
       "IATA code": "BJM"
     },
@@ -1369,22 +1369,22 @@
       "IATA code": "CNS"
     },
     {
-      "City/Airport": "Cairo - Cairo International Airport",
+      "City/Airport": "Cairo",
       "Country": "Egypt",
       "IATA code": "CAI"
     },
     {
-      "City/Airport": "Calama - El Loa",
+      "City/Airport": "Calama",
       "Country": "Chile",
       "IATA code": "CJC"
     },
     {
-      "City/Airport": "Calcutta (Kolkata) - Netaji Subhas Chandra",
+      "City/Airport": "Calcutta (Kolkata)",
       "Country": "India",
       "IATA code": "CCU"
     },
     {
-      "City/Airport": "Calgary - Calgary International Airport",
+      "City/Airport": "Calgary",
       "Country": "Canada",
       "IATA code": "YYC"
     },
@@ -1424,7 +1424,7 @@
       "IATA code": "CGR"
     },
     {
-      "City/Airport": "Canberra - Canberra Airport",
+      "City/Airport": "Canberra",
       "Country": "Australia",
       "IATA code": "CBR"
     },
@@ -1439,22 +1439,22 @@
       "IATA code": "CEQ"
     },
     {
-      "City/Airport": "Canouan (island) - Canouan Airport",
+      "City/Airport": "Canouan (island)",
       "Country": "Saint Vincent & the Grenadines",
       "IATA code": "CIW"
     },
     {
-      "City/Airport": "Cape Town - Cape Town International Airport",
+      "City/Airport": "Cape Town",
       "Country": "South Africa",
       "IATA code": "CPT"
     },
     {
-      "City/Airport": "Caracas - Simón Bolívar International Airport",
+      "City/Airport": "Caracas",
       "Country": "Venezuela",
       "IATA code": "CCS"
     },
     {
-      "City/Airport": "Cardiff - Cardiff Airport",
+      "City/Airport": "Cardiff",
       "Country": "United Kingdom",
       "IATA code": "CWL"
     },
@@ -1489,7 +1489,7 @@
       "IATA code": "CMN"
     },
     {
-      "City/Airport": "Casa de Campo - La Romana International Airport",
+      "City/Airport": "Casa de Campo",
       "Country": "Dominican Republic",
       "IATA code": "LRM"
     },
@@ -1509,12 +1509,12 @@
       "IATA code": "CST"
     },
     {
-      "City/Airport": "Cartagena - Rafael Núñez International Airport",
+      "City/Airport": "Cartagena",
       "Country": "Colombia",
       "IATA code": "CTG"
     },
     {
-      "City/Airport": "Castries - George F. L. Charles Airport",
+      "City/Airport": "Castries",
       "Country": "Saint Lucia",
       "IATA code": "SLU"
     },
@@ -1524,17 +1524,17 @@
       "IATA code": "CTA"
     },
     {
-      "City/Airport": "Cayenne - Cayenne-Rochambeau Airport",
+      "City/Airport": "Cayenne",
       "Country": "French Guiana",
       "IATA code": "CAY"
     },
     {
-      "City/Airport": "Cottbus - Cottbus-Drewitz Airport",
+      "City/Airport": "Cottbus",
       "Country": "Germany",
       "IATA code": "CBU"
     },
     {
-      "City/Airport": "Cebu City - Mactan-Cebu International",
+      "City/Airport": "Cebu City",
       "Country": "Philippines",
       "IATA code": "CEB"
     },
@@ -1574,7 +1574,7 @@
       "IATA code": "CMI"
     },
     {
-      "City/Airport": "Chandigarh - Chandigarh International Airport",
+      "City/Airport": "Chandigarh",
       "Country": "India",
       "IATA code": "IXC"
     },
@@ -1589,7 +1589,7 @@
       "IATA code": "CHQ"
     },
     {
-      "City/Airport": "Chaoyang, Beijing - Chaoyang Airport",
+      "City/Airport": "Chaoyang, Beijing",
       "Country": "PR China",
       "IATA code": "CHG"
     },
@@ -1599,7 +1599,7 @@
       "IATA code": "CHS"
     },
     {
-      "City/Airport": "Charleston (WV) - Yeager Airport",
+      "City/Airport": "Charleston (WV)",
       "Country": "USA",
       "IATA code": "CRW"
     },
@@ -1624,7 +1624,7 @@
       "IATA code": "CHA"
     },
     {
-      "City/Airport": "Chengdu - Shuangliu",
+      "City/Airport": "Chengdu",
       "Country": "Sichuan, PR China",
       "IATA code": "CTU"
     },
@@ -1634,12 +1634,12 @@
       "IATA code": "MAA"
     },
     {
-      "City/Airport": "Cheyenne (WY) - Cheyenne Regional Airport",
+      "City/Airport": "Cheyenne (WY)",
       "Country": "USA",
       "IATA code": "CYS"
     },
     {
-      "City/Airport": "Chiang Mai - Chiang Mai International Airport",
+      "City/Airport": "Chiang Mai",
       "Country": "Thailand",
       "IATA code": "CNX"
     },
@@ -1674,7 +1674,7 @@
       "IATA code": "CIC"
     },
     {
-      "City/Airport": "Chihuahua - Gen Fierro Villalobos",
+      "City/Airport": "Chihuahua",
       "Country": "Mexico",
       "IATA code": "CUU"
     },
@@ -1689,7 +1689,7 @@
       "IATA code": "CIP"
     },
     {
-      "City/Airport": "Chisinau - Chişinău International Airport",
+      "City/Airport": "Chisinau",
       "Country": "Moldova",
       "IATA code": "KIV"
     },
@@ -1699,7 +1699,7 @@
       "IATA code": "HTA"
     },
     {
-      "City/Airport": "Sapporo - New Chitose Airport",
+      "City/Airport": "Sapporo",
       "Country": "Japan",
       "IATA code": "CTS"
     },
@@ -1714,7 +1714,7 @@
       "IATA code": "CGP"
     },
     {
-      "City/Airport": "Chongqing - Jiangbei International Airport",
+      "City/Airport": "Chongqing",
       "Country": "Sichuan, PR China",
       "IATA code": "CKG"
     },
@@ -1734,12 +1734,12 @@
       "IATA code": "YYQ"
     },
     {
-      "City/Airport": "Cienfuegos - Jaime González Airport",
+      "City/Airport": "Cienfuegos",
       "Country": "Cuba",
       "IATA code": "CFG"
     },
     {
-      "City/Airport": "Cincinnati (OH) - Cincinnati/Northern Kentucky Int'l",
+      "City/Airport": "Cincinnati (OH)",
       "Country": "USA",
       "IATA code": "CVG"
     },
@@ -1789,7 +1789,7 @@
       "IATA code": "BKL"
     },
     {
-      "City/Airport": "Cleveland (OH) - Cleveland Hopkins International",
+      "City/Airport": "Cleveland (OH)",
       "Country": "USA",
       "IATA code": "CLE"
     },
@@ -1839,12 +1839,12 @@
       "IATA code": "KCE"
     },
     {
-      "City/Airport": "Cologne - Cologne Airport (Flughafen Köln/Bonn)",
+      "City/Airport": "Cologne",
       "Country": "Germany",
       "IATA code": "CGN"
     },
     {
-      "City/Airport": "Colombo - Bandaranaike International Airport",
+      "City/Airport": "Colombo",
       "Country": "Sri Lanka",
       "IATA code": "CMB"
     },
@@ -1854,7 +1854,7 @@
       "IATA code": "COS"
     },
     {
-      "City/Airport": "Columbia (SC) - Columbia Metropolitan Airport",
+      "City/Airport": "Columbia (SC)",
       "Country": "USA",
       "IATA code": "CAE"
     },
@@ -1864,22 +1864,22 @@
       "IATA code": "CSG"
     },
     {
-      "City/Airport": "Columbus (OH) - Port Columbus International",
+      "City/Airport": "Columbus (OH)",
       "Country": "USA",
       "IATA code": "CMH"
     },
     {
-      "City/Airport": "Conakry - Conakry International Airport",
+      "City/Airport": "Conakry",
       "Country": "Guinea",
       "IATA code": "CKY"
     },
     {
-      "City/Airport": "Concord (CA) - Buchanan Field",
+      "City/Airport": "Concord (CA)",
       "Country": "USA",
       "IATA code": "CCR"
     },
     {
-      "City/Airport": "Concord (NH) - Concord Municipal Airport",
+      "City/Airport": "Concord (NH)",
       "Country": "USA",
       "IATA code": "CON"
     },
@@ -1889,7 +1889,7 @@
       "IATA code": "CZL"
     },
     {
-      "City/Airport": "Constanta (Constanța) - Constanta Int'l Airport",
+      "City/Airport": "Constanta (Constanța)",
       "Country": "Romania",
       "IATA code": "CND"
     },
@@ -1909,7 +1909,7 @@
       "IATA code": "OOM"
     },
     {
-      "City/Airport": "Copenhagen - Copenhagen Airport",
+      "City/Airport": "Copenhagen",
       "Country": "Denmark",
       "IATA code": "CPH"
     },
@@ -1944,12 +1944,12 @@
       "IATA code": "CRP"
     },
     {
-      "City/Airport": "Cotonou - Cotonou Cadjehoun Airport",
+      "City/Airport": "Cotonou",
       "Country": "Benin",
       "IATA code": "COO"
     },
     {
-      "City/Airport": "Coventry - Baginton",
+      "City/Airport": "Coventry",
       "Country": "United Kingdom",
       "IATA code": "CVT"
     },
@@ -1969,7 +1969,7 @@
       "IATA code": "CEC"
     },
     {
-      "City/Airport": "Cuiaba - Marechal Rondon International Airport",
+      "City/Airport": "Cuiaba",
       "Country": "Brazil",
       "IATA code": "CGB"
     },
@@ -1979,12 +1979,12 @@
       "IATA code": "CUL"
     },
     {
-      "City/Airport": "Curacao - Curaçao International Airport",
+      "City/Airport": "Curacao",
       "Country": "Netherlands Antilles",
       "IATA code": "CUR"
     },
     {
-      "City/Airport": "Curitiba - Afonso Pena International Airport",
+      "City/Airport": "Curitiba",
       "Country": "Brazil",
       "IATA code": "CWB"
     },
@@ -1994,7 +1994,7 @@
       "IATA code": "CYU"
     },
     {
-      "City/Airport": "Dakar - Léopold Sédar Senghor International Airport",
+      "City/Airport": "Dakar",
       "Country": "Senegal",
       "IATA code": "DKR"
     },
@@ -2009,7 +2009,7 @@
       "IATA code": "DBY"
     },
     {
-      "City/Airport": "Dalian - Zhoushuizi International Airport",
+      "City/Airport": "Dalian",
       "Country": "Liaoning, PR China",
       "IATA code": "DLC"
     },
@@ -2019,7 +2019,7 @@
       "IATA code": "DAL"
     },
     {
-      "City/Airport": "Dallas/Ft. Worth (TX) - Dallas/Fort Worth International",
+      "City/Airport": "Dallas/Ft. Worth (TX)",
       "Country": "USA",
       "IATA code": "DFW"
     },
@@ -2044,7 +2044,7 @@
       "IATA code": "DAN"
     },
     {
-      "City/Airport": "Dar es Salam (Daressalam) - Julius Nyerere Int'l",
+      "City/Airport": "Dar es Salam (Daressalam)",
       "Country": "Tanzania",
       "IATA code": "DAR"
     },
@@ -2079,7 +2079,7 @@
       "IATA code": "YDF"
     },
     {
-      "City/Airport": "Delhi - Indira Gandhi International Airport",
+      "City/Airport": "Delhi",
       "Country": "India",
       "IATA code": "DEL"
     },
@@ -2099,12 +2099,12 @@
       "IATA code": "DPS"
     },
     {
-      "City/Airport": "Denver (CO) - Denver International Airport",
+      "City/Airport": "Denver (CO)",
       "Country": "USA",
       "IATA code": "DEN"
     },
     {
-      "City/Airport": "Dera Ismail Khan - Dera Ismail Khan Airport",
+      "City/Airport": "Dera Ismail Khan",
       "Country": "Pakistan",
       "IATA code": "DSK"
     },
@@ -2119,7 +2119,7 @@
       "IATA code": "LDY"
     },
     {
-      "City/Airport": "Des Moines (IA) - Des Moines International Airport",
+      "City/Airport": "Des Moines (IA)",
       "Country": "USA",
       "IATA code": "DSM"
     },
@@ -2154,12 +2154,12 @@
       "IATA code": "DHA"
     },
     {
-      "City/Airport": "Dhaka - Zia International Airport",
+      "City/Airport": "Dhaka",
       "Country": "Bangladesh",
       "IATA code": "DAC"
     },
     {
-      "City/Airport": "Dili - Nicolau Lobato International Airport",
+      "City/Airport": "Dili",
       "Country": "Timor Leste (East Timor)",
       "IATA code": "DIL"
     },
@@ -2184,17 +2184,17 @@
       "IATA code": "DJE"
     },
     {
-      "City/Airport": "Djibouti (city) - Djibouti-Ambouli International Airport",
+      "City/Airport": "Djibouti (city)",
       "Country": "Djibouti",
       "IATA code": "JIB"
     },
     {
-      "City/Airport": "Dodoma - Dodoma Airport",
+      "City/Airport": "Dodoma",
       "Country": "Tanzania",
       "IATA code": "DOD"
     },
     {
-      "City/Airport": "Doha - Doha International Airport",
+      "City/Airport": "Doha",
       "Country": "Qatar",
       "IATA code": "DOH"
     },
@@ -2224,12 +2224,12 @@
       "IATA code": "DLA"
     },
     {
-      "City/Airport": "Dresden - Dresden Airport",
+      "City/Airport": "Dresden",
       "Country": "Germany",
       "IATA code": "DRS"
     },
     {
-      "City/Airport": "Dubai - Dubai International Airport",
+      "City/Airport": "Dubai",
       "Country": "United Arab Emirates",
       "IATA code": "DXB"
     },
@@ -2239,7 +2239,7 @@
       "IATA code": "DBO"
     },
     {
-      "City/Airport": "Dublin - Dublin International Airport",
+      "City/Airport": "Dublin",
       "Country": "Ireland",
       "IATA code": "DUB"
     },
@@ -2259,7 +2259,7 @@
       "IATA code": "DBQ"
     },
     {
-      "City/Airport": "Duesseldorf - Düsseldorf International Airport",
+      "City/Airport": "Duesseldorf",
       "Country": "Germany",
       "IATA code": "DUS"
     },
@@ -2294,7 +2294,7 @@
       "IATA code": "DUR"
     },
     {
-      "City/Airport": "Dushanbe (Duschanbe) - Dushanbe Airport",
+      "City/Airport": "Dushanbe (Duschanbe)",
       "Country": "Tajikistan",
       "IATA code": "DYU"
     },
@@ -2329,7 +2329,7 @@
       "IATA code": "EAU"
     },
     {
-      "City/Airport": "Edinburgh - Edinburgh Airport",
+      "City/Airport": "Edinburgh",
       "Country": "Scotland, UK",
       "IATA code": "EDI"
     },
@@ -2359,7 +2359,7 @@
       "IATA code": "EIN"
     },
     {
-      "City/Airport": "Samana - Samaná El Catey International Airport",
+      "City/Airport": "Samana",
       "Country": "Dominican Republic",
       "IATA code": "AZS"
     },
@@ -2404,7 +2404,7 @@
       "IATA code": "ELM"
     },
     {
-      "City/Airport": "El Paso (TX) - El Paso International Airport",
+      "City/Airport": "El Paso (TX)",
       "Country": "USA",
       "IATA code": "ELP"
     },
@@ -2429,12 +2429,12 @@
       "IATA code": "ENF"
     },
     {
-      "City/Airport": "Entebbe - Entebbe International Airport",
+      "City/Airport": "Entebbe",
       "Country": "Uganda",
       "IATA code": "EBB"
     },
     {
-      "City/Airport": "Erfurt - Erfurt Airport (Flughafen Erfurt)",
+      "City/Airport": "Erfurt",
       "Country": "Germany",
       "IATA code": "ERF"
     },
@@ -2529,7 +2529,7 @@
       "IATA code": "FAO"
     },
     {
-      "City/Airport": "Faroer - Vágar Airport",
+      "City/Airport": "Faroer",
       "Country": "Denmark",
       "IATA code": "FAE"
     },
@@ -2569,7 +2569,7 @@
       "IATA code": "FNT"
     },
     {
-      "City/Airport": "Florence (Firenze) - Peretola Airport",
+      "City/Airport": "Florence (Firenze)",
       "Country": "Italy",
       "IATA code": "FLR"
     },
@@ -2594,12 +2594,12 @@
       "IATA code": "YFA"
     },
     {
-      "City/Airport": "Fortaleza - Pinto Martins Airport",
+      "City/Airport": "Fortaleza",
       "Country": "Brazil",
       "IATA code": "FOR"
     },
     {
-      "City/Airport": "Fort de France - Martinique Aimé Césaire International",
+      "City/Airport": "Fort de France",
       "Country": "Martinique",
       "IATA code": "FDF"
     },
@@ -2634,7 +2634,7 @@
       "IATA code": "RSW"
     },
     {
-      "City/Airport": "Fort Riley (KS) - Marshall AAF",
+      "City/Airport": "Fort Riley (KS)",
       "Country": "USA",
       "IATA code": "FRI"
     },
@@ -2664,7 +2664,7 @@
       "IATA code": "FWA"
     },
     {
-      "City/Airport": "Fort Worth (TX) - Dallas/Fort Worth International Airport",
+      "City/Airport": "Fort Worth (TX)",
       "Country": "USA",
       "IATA code": "DFW"
     },
@@ -2679,7 +2679,7 @@
       "IATA code": "FRW"
     },
     {
-      "City/Airport": "Frankfurt/Main - Frankfurt Airport (Rhein-Main-Flughafen)",
+      "City/Airport": "Frankfurt/Main",
       "Country": "Germany",
       "IATA code": "FRA"
     },
@@ -2699,12 +2699,12 @@
       "IATA code": "YFC"
     },
     {
-      "City/Airport": "Freeport - Grand Bahama International Airport",
+      "City/Airport": "Freeport",
       "Country": "Bahamas",
       "IATA code": "FPO"
     },
     {
-      "City/Airport": "Freetown - Freetown-Lungi International Airport",
+      "City/Airport": "Freetown",
       "Country": "Sierra Leone",
       "IATA code": "FNA"
     },
@@ -2719,7 +2719,7 @@
       "IATA code": "FAT"
     },
     {
-      "City/Airport": "Friedrichshafen - Bodensee-Airport Friedrichshafen",
+      "City/Airport": "Friedrichshafen",
       "Country": "Germany",
       "IATA code": "FDH"
     },
@@ -2739,7 +2739,7 @@
       "IATA code": "FUK"
     },
     {
-      "City/Airport": "Fukushima - Fukushima Airport",
+      "City/Airport": "Fukushima",
       "Country": "Japan",
       "IATA code": "FKS"
     },
@@ -2754,7 +2754,7 @@
       "IATA code": "FUT"
     },
     {
-      "City/Airport": "Gaborone - Sir Seretse Khama International Airport",
+      "City/Airport": "Gaborone",
       "Country": "Botswana",
       "IATA code": "GBE"
     },
@@ -2784,7 +2784,7 @@
       "IATA code": "GOU"
     },
     {
-      "City/Airport": "Gaza City - Gaza International Airport",
+      "City/Airport": "Gaza City",
       "Country": "Palestinian Territory",
       "IATA code": "GZA"
     },
@@ -2804,7 +2804,7 @@
       "IATA code": "GEX"
     },
     {
-      "City/Airport": "Geneva - Geneva-Cointrin International Airport",
+      "City/Airport": "Geneva",
       "Country": "Switzerland",
       "IATA code": "GVA"
     },
@@ -2819,7 +2819,7 @@
       "IATA code": "GRJ"
     },
     {
-      "City/Airport": "Georgetown - Cheddi Jagan International Airport",
+      "City/Airport": "Georgetown",
       "Country": "Guyana",
       "IATA code": "GEO"
     },
@@ -2914,7 +2914,7 @@
       "IATA code": "GOZ"
     },
     {
-      "City/Airport": "Gothenburg (Göteborg) - Landvetter",
+      "City/Airport": "Gothenburg (Göteborg)",
       "Country": "Sweden",
       "IATA code": "GOT"
     },
@@ -2944,7 +2944,7 @@
       "IATA code": "GCN"
     },
     {
-      "City/Airport": "Grand Cayman - Owen Roberts International",
+      "City/Airport": "Grand Cayman",
       "Country": "Cayman Islands",
       "IATA code": "GCM"
     },
@@ -3014,7 +3014,7 @@
       "IATA code": "GSP"
     },
     {
-      "City/Airport": "Grenada - Point Salines Airport also Maurice Bishop",
+      "City/Airport": "Grenada",
       "Country": "Grenada",
       "IATA code": "GND"
     },
@@ -3029,12 +3029,12 @@
       "IATA code": "GFF"
     },
     {
-      "City/Airport": "Groningen - Eelde",
+      "City/Airport": "Groningen",
       "Country": "Netherlands",
       "IATA code": "GRQ"
     },
     {
-      "City/Airport": "Groote Eylandt - Alyangula",
+      "City/Airport": "Groote Eylandt",
       "Country": "Australia",
       "IATA code": "GTE"
     },
@@ -3059,22 +3059,22 @@
       "IATA code": "GUM"
     },
     {
-      "City/Airport": "Guangzhou (Canton) - Baiyun International Airport",
+      "City/Airport": "Guangzhou (Canton)",
       "Country": "Guangdong, PR China",
       "IATA code": "CAN"
     },
     {
-      "City/Airport": "Sao Paulo - Guarulhos International",
+      "City/Airport": "Sao Paulo",
       "Country": "Brazil",
       "IATA code": "GRU"
     },
     {
-      "City/Airport": "Guatemala City - La Aurora International Airport",
+      "City/Airport": "Guatemala City",
       "Country": "Guatemala",
       "IATA code": "GUA"
     },
     {
-      "City/Airport": "Guayaquil - Simon Bolivar",
+      "City/Airport": "Guayaquil",
       "Country": "Ecuador",
       "IATA code": "GYE"
     },
@@ -3094,7 +3094,7 @@
       "IATA code": "GPT"
     },
     {
-      "City/Airport": "Guilin - Liangjiang",
+      "City/Airport": "Guilin",
       "Country": "Guangxi, PR China",
       "IATA code": "KWL"
     },
@@ -3134,7 +3134,7 @@
       "IATA code": "HAC"
     },
     {
-      "City/Airport": "Hagåtña - Guam International Airport",
+      "City/Airport": "Hagåtña",
       "Country": "Guam",
       "IATA code": "GUM"
     },
@@ -3164,7 +3164,7 @@
       "IATA code": "YUX"
     },
     {
-      "City/Airport": "Hamburg - Fuhlsbuettel",
+      "City/Airport": "Hamburg",
       "Country": "Germany",
       "IATA code": "HAM"
     },
@@ -3209,12 +3209,12 @@
       "IATA code": "HAJ"
     },
     {
-      "City/Airport": "Hanoi - Noi Bai International Airport",
+      "City/Airport": "Hanoi",
       "Country": "Vietnam",
       "IATA code": "HAN"
     },
     {
-      "City/Airport": "Harare - Harare International Airport",
+      "City/Airport": "Harare",
       "Country": "Zimbabwe",
       "IATA code": "HRE"
     },
@@ -3234,12 +3234,12 @@
       "IATA code": "YHR"
     },
     {
-      "City/Airport": "Harrisburg (PA) - Harrisburg Skyport",
+      "City/Airport": "Harrisburg (PA)",
       "Country": "USA",
       "IATA code": "HAR"
     },
     {
-      "City/Airport": "Harrisburg (PA) - Harrisburg International",
+      "City/Airport": "Harrisburg (PA)",
       "Country": "USA",
       "IATA code": "MDT"
     },
@@ -3259,7 +3259,7 @@
       "IATA code": "HAU"
     },
     {
-      "City/Airport": "Havana - José Martí International",
+      "City/Airport": "Havana",
       "Country": "Cuba",
       "IATA code": "HAV"
     },
@@ -3284,7 +3284,7 @@
       "IATA code": "JHE"
     },
     {
-      "City/Airport": "Helsinki - Vantaa",
+      "City/Airport": "Helsinki",
       "Country": "Finland",
       "IATA code": "HEL"
     },
@@ -3294,7 +3294,7 @@
       "IATA code": "HER"
     },
     {
-      "City/Airport": "Hermosillo - Gen. Pesqueira Garcia",
+      "City/Airport": "Hermosillo",
       "Country": "Mexico",
       "IATA code": "HMO"
     },
@@ -3334,7 +3334,7 @@
       "IATA code": "HIJ"
     },
     {
-      "City/Airport": "Ho Chi Minh City (Saigon) - Tan Son Nhat International",
+      "City/Airport": "Ho Chi Minh City (Saigon)",
       "Country": "Viet Nam",
       "IATA code": "SGN"
     },
@@ -3364,12 +3364,12 @@
       "IATA code": "HOM"
     },
     {
-      "City/Airport": "Hong Kong - International Airport (HKIA)",
+      "City/Airport": "Hong Kong",
       "Country": "Hong Kong",
       "IATA code": "HKG"
     },
     {
-      "City/Airport": "Hong Kong - Chek Lap Kok",
+      "City/Airport": "Hong Kong",
       "Country": "Hong Kong",
       "IATA code": "ZJK"
     },
@@ -3379,7 +3379,7 @@
       "IATA code": "HIR"
     },
     {
-      "City/Airport": "Honolulu (HI) - Honolulu International Airport",
+      "City/Airport": "Honolulu (HI)",
       "Country": "USA",
       "IATA code": "HNL"
     },
@@ -3399,7 +3399,7 @@
       "IATA code": "HOU"
     },
     {
-      "City/Airport": "Houston, TX - George Bush Intercontinental Airport",
+      "City/Airport": "Houston, TX",
       "Country": "USA",
       "IATA code": "IAH"
     },
@@ -3414,7 +3414,7 @@
       "IATA code": "HUX"
     },
     {
-      "City/Airport": "Hue - Phu Bai",
+      "City/Airport": "Hue",
       "Country": "Viet Nam",
       "IATA code": "HUI"
     },
@@ -3459,7 +3459,7 @@
       "IATA code": "HYG"
     },
     {
-      "City/Airport": "Hyderabad - Rajiv Gandhi International Airport",
+      "City/Airport": "Hyderabad",
       "Country": "India",
       "IATA code": "HYD"
     },
@@ -3529,7 +3529,7 @@
       "IATA code": "IFL"
     },
     {
-      "City/Airport": "Innsbruck - Kranebitten",
+      "City/Airport": "Innsbruck",
       "Country": "Austria",
       "IATA code": "INN"
     },
@@ -3574,12 +3574,12 @@
       "IATA code": "IKT"
     },
     {
-      "City/Airport": "Ishigaki - New Ishigaki Airport",
+      "City/Airport": "Ishigaki",
       "Country": "Japan",
       "IATA code": "ISG"
     },
     {
-      "City/Airport": "Islamabad - Benazir Bhutto International Airport",
+      "City/Airport": "Islamabad",
       "Country": "Pakistan",
       "IATA code": "ISB"
     },
@@ -3593,12 +3593,12 @@
       "IATA code": "IOM"
     },
     {
-      "City/Airport": "Istanbul - Istanbul Atatürk Airport",
+      "City/Airport": "Istanbul",
       "Country": "Turkey",
       "IATA code": "IST"
     },
     {
-      "City/Airport": "Istanbul - Sabiha Gokcen",
+      "City/Airport": "Istanbul",
       "Country": "Turkey",
       "IATA code": "SAW"
     },
@@ -3623,7 +3623,7 @@
       "IATA code": "IZM"
     },
     {
-      "City/Airport": "Izmir - Adnan Menderes Airport",
+      "City/Airport": "Izmir",
       "Country": "Turkey",
       "IATA code": "ADB"
     },
@@ -3633,7 +3633,7 @@
       "IATA code": "JAC"
     },
     {
-      "City/Airport": "Jackson (MI) - Reynolds Municipal",
+      "City/Airport": "Jackson (MI)",
       "Country": "USA",
       "IATA code": "JXN"
     },
@@ -3643,17 +3643,17 @@
       "IATA code": "MJQ"
     },
     {
-      "City/Airport": "Jackson (MS) - Jackson Internationall",
+      "City/Airport": "Jackson (MS)",
       "Country": "USA",
       "IATA code": "JAN"
     },
     {
-      "City/Airport": "Jackson (MS) - Hawkins Field",
+      "City/Airport": "Jackson (MS)",
       "Country": "USA",
       "IATA code": "HKS"
     },
     {
-      "City/Airport": "Jackson (TN) - Mckellar",
+      "City/Airport": "Jackson (TN)",
       "Country": "USA",
       "IATA code": "MKL"
     },
@@ -3668,7 +3668,7 @@
       "IATA code": "LRF"
     },
     {
-      "City/Airport": "Jacksonville (FL) - Cecil Field NAS",
+      "City/Airport": "Jacksonville (FL)",
       "Country": "USA",
       "IATA code": "NZC"
     },
@@ -3678,17 +3678,17 @@
       "IATA code": "NIP"
     },
     {
-      "City/Airport": "Jacksonville (FL) - International",
+      "City/Airport": "Jacksonville (FL)",
       "Country": "USA",
       "IATA code": "JAX"
     },
     {
-      "City/Airport": "Jacksonville (FL) - Craig Municipal",
+      "City/Airport": "Jacksonville (FL)",
       "Country": "USA",
       "IATA code": "CRG"
     },
     {
-      "City/Airport": "Jacksonville (IL) - Municipal Airport",
+      "City/Airport": "Jacksonville (IL)",
       "Country": "USA",
       "IATA code": "IJX"
     },
@@ -3723,7 +3723,7 @@
       "IATA code": "JAQ"
     },
     {
-      "City/Airport": "Jaffna - Kankesanturai",
+      "City/Airport": "Jaffna",
       "Country": "Sri Lanka",
       "IATA code": "JAF"
     },
@@ -3733,7 +3733,7 @@
       "IATA code": "JGB"
     },
     {
-      "City/Airport": "Jaipur - Sanganeer",
+      "City/Airport": "Jaipur",
       "Country": "India",
       "IATA code": "JAI"
     },
@@ -3743,17 +3743,17 @@
       "IATA code": "JSA"
     },
     {
-      "City/Airport": "Jakarta - Halim Perdana Kusuma",
+      "City/Airport": "Jakarta",
       "Country": "Indonesia",
       "IATA code": "HLP"
     },
     {
-      "City/Airport": "Jakarta - Metropolitan Area",
+      "City/Airport": "Jakarta",
       "Country": "Indonesia",
       "IATA code": "JKT"
     },
     {
-      "City/Airport": "Jakarta - Soekarno-Hatta International",
+      "City/Airport": "Jakarta",
       "Country": "Indonesia",
       "IATA code": "CGK"
     },
@@ -3788,7 +3788,7 @@
       "IATA code": "JMB"
     },
     {
-      "City/Airport": "Jambi - Sultan Taha Syarifudn",
+      "City/Airport": "Jambi",
       "Country": "Indonesia",
       "IATA code": "DJB"
     },
@@ -3808,17 +3808,17 @@
       "IATA code": "JHW"
     },
     {
-      "City/Airport": "Jammu - Satwari",
+      "City/Airport": "Jammu",
       "Country": "India",
       "IATA code": "IXJ"
     },
     {
-      "City/Airport": "Jamnagar - Govardhanpur",
+      "City/Airport": "Jamnagar",
       "Country": "India",
       "IATA code": "JGA"
     },
     {
-      "City/Airport": "Jamshedpur - Sonari Airport",
+      "City/Airport": "Jamshedpur",
       "Country": "India",
       "IATA code": "IXW"
     },
@@ -3833,7 +3833,7 @@
       "IATA code": "JAD"
     },
     {
-      "City/Airport": "Janesville (WI) - Rock County",
+      "City/Airport": "Janesville (WI)",
       "Country": "USA",
       "IATA code": "JVL"
     },
@@ -3858,27 +3858,27 @@
       "IATA code": "JAU"
     },
     {
-      "City/Airport": "Jayapura - Sentani",
+      "City/Airport": "Jayapura",
       "Country": "Indonesia",
       "IATA code": "DJJ"
     },
     {
-      "City/Airport": "Jeddah - King Abdulaziz International",
+      "City/Airport": "Jeddah",
       "Country": "Saudi Arabia",
       "IATA code": "JED"
     },
     {
-      "City/Airport": "Jefferson City (MO) - Jefferson Memorial",
+      "City/Airport": "Jefferson City (MO)",
       "Country": "USA",
       "IATA code": "JEF"
     },
     {
-      "City/Airport": "Jeremie - Jeremie Airport",
+      "City/Airport": "Jeremie",
       "Country": "Haiti",
       "IATA code": "JEE"
     },
     {
-      "City/Airport": "Jerez de la Frontera/Cadiz - La Parra",
+      "City/Airport": "Jerez de la Frontera/Cadiz",
       "Country": "Spain",
       "IATA code": "XRY"
     },
@@ -3888,17 +3888,17 @@
       "IATA code": "JER"
     },
     {
-      "City/Airport": "Jerusalem - Atarot Airport (closed)",
+      "City/Airport": "Jerusalem",
       "Country": "Israel",
       "IATA code": "JRS"
     },
     {
-      "City/Airport": "Jessore - Jessore Airport",
+      "City/Airport": "Jessore",
       "Country": "Bangladesh",
       "IATA code": "JSR"
     },
     {
-      "City/Airport": "Jeypore - Jeypore Airport",
+      "City/Airport": "Jeypore",
       "Country": "India",
       "IATA code": "PYB"
     },
@@ -3908,12 +3908,12 @@
       "IATA code": "JGS"
     },
     {
-      "City/Airport": "Jiamusi - Jiamusi Airport",
+      "City/Airport": "Jiamusi",
       "Country": "PR China",
       "IATA code": "JMU"
     },
     {
-      "City/Airport": "Jiayuguan - Jiayuguan Airport",
+      "City/Airport": "Jiayuguan",
       "Country": "PR China",
       "IATA code": "JGN"
     },
@@ -3948,7 +3948,7 @@
       "IATA code": "JDZ"
     },
     {
-      "City/Airport": "Jinghong - Gasa Airport",
+      "City/Airport": "Jinghong",
       "Country": "PR China",
       "IATA code": "JHG"
     },
@@ -3968,12 +3968,12 @@
       "IATA code": "JJN"
     },
     {
-      "City/Airport": "Jinka - Baco/Jinka Airport",
+      "City/Airport": "Jinka",
       "Country": "Ethiopia",
       "IATA code": "BCO"
     },
     {
-      "City/Airport": "Jinzhou - Jinzhou Airport",
+      "City/Airport": "Jinzhou",
       "Country": "PR China",
       "IATA code": "JNZ"
     },
@@ -3988,7 +3988,7 @@
       "IATA code": "JIR"
     },
     {
-      "City/Airport": "Jiujiang - Jiujiang Lushan Airport",
+      "City/Airport": "Jiujiang",
       "Country": "PR China",
       "IATA code": "JIU"
     },
@@ -4003,7 +4003,7 @@
       "IATA code": "JCB"
     },
     {
-      "City/Airport": "Joao Pessoa - Castro Pinto Airport",
+      "City/Airport": "Joao Pessoa",
       "Country": "Brazil",
       "IATA code": "JPA"
     },
@@ -4013,7 +4013,7 @@
       "IATA code": "JDH"
     },
     {
-      "City/Airport": "Jönköping (Jonkoping) - Axamo Airport",
+      "City/Airport": "Jönköping (Jonkoping)",
       "Country": "Sweden",
       "IATA code": "JKG"
     },
@@ -4023,12 +4023,12 @@
       "IATA code": "JOE"
     },
     {
-      "City/Airport": "Johannesburg - OR Tambo International Airport",
+      "City/Airport": "Johannesburg",
       "Country": "South Africa",
       "IATA code": "JNB"
     },
     {
-      "City/Airport": "Johnson City (NY) - Binghamton/Endicott/Johnson",
+      "City/Airport": "Johnson City (NY)",
       "Country": "USA",
       "IATA code": "BGM"
     },
@@ -4043,12 +4043,12 @@
       "IATA code": "JST"
     },
     {
-      "City/Airport": "Johor Bahru - Sultan Ismail International",
+      "City/Airport": "Johor Bahru",
       "Country": "Malaysia",
       "IATA code": "JHB"
     },
     {
-      "City/Airport": "Joinville - Cubatao Airport",
+      "City/Airport": "Joinville",
       "Country": "Brazil",
       "IATA code": "JOI"
     },
@@ -4073,7 +4073,7 @@
       "IATA code": "JLN"
     },
     {
-      "City/Airport": "Jorhat - Rowriah Airport",
+      "City/Airport": "Jorhat",
       "Country": "India",
       "IATA code": "JRH"
     },
@@ -4108,12 +4108,12 @@
       "IATA code": "JUI"
     },
     {
-      "City/Airport": "Juiz De Fora - Francisco De Assis Airport",
+      "City/Airport": "Juiz De Fora",
       "Country": "Brazil",
       "IATA code": "JDF"
     },
     {
-      "City/Airport": "Jujuy - El Cadillal Airport",
+      "City/Airport": "Jujuy",
       "Country": "Argentina",
       "IATA code": "JUJ"
     },
@@ -4138,7 +4138,7 @@
       "IATA code": "JUN"
     },
     {
-      "City/Airport": "Juneau (AK) - Juneau International Airport",
+      "City/Airport": "Juneau (AK)",
       "Country": "USA",
       "IATA code": "JNU"
     },
@@ -4163,7 +4163,7 @@
       "IATA code": "JYV"
     },
     {
-      "City/Airport": "Kabul - Khwaja Rawash Airport",
+      "City/Airport": "Kabul",
       "Country": "Afghanistan",
       "IATA code": "KBL"
     },
@@ -4238,7 +4238,7 @@
       "IATA code": "KNU"
     },
     {
-      "City/Airport": "Kansas City (MO) - Kansas City International Airport",
+      "City/Airport": "Kansas City (MO)",
       "Country": "USA",
       "IATA code": "MCI"
     },
@@ -4253,12 +4253,12 @@
       "IATA code": "JHM"
     },
     {
-      "City/Airport": "Karachi - Jinnah International Airport",
+      "City/Airport": "Karachi",
       "Country": "Pakistan",
       "IATA code": "KHI"
     },
     {
-      "City/Airport": "Karlsruhe-Baden - Soellingen",
+      "City/Airport": "Karlsruh",
       "Country": "Germany",
       "IATA code": "FKB"
     },
@@ -4308,7 +4308,7 @@
       "IATA code": "KTR"
     },
     {
-      "City/Airport": "Kathmandu - Tribhuvan International Airport",
+      "City/Airport": "Kathmandu",
       "Country": "Nepal",
       "IATA code": "KTM"
     },
@@ -4338,7 +4338,7 @@
       "IATA code": "ASR"
     },
     {
-      "City/Airport": "Kazan - Kazan International Airport",
+      "City/Airport": "Kazan",
       "Country": "Russia",
       "IATA code": "KZN"
     },
@@ -4388,7 +4388,7 @@
       "IATA code": "AHB"
     },
     {
-      "City/Airport": "Kharga - New Valley",
+      "City/Airport": "Kharga",
       "Country": "Egypt",
       "IATA code": "UVL"
     },
@@ -4398,7 +4398,7 @@
       "IATA code": "HRK"
     },
     {
-      "City/Airport": "Khartoum - Khartoum International Airport",
+      "City/Airport": "Khartoum",
       "Country": "Sudan",
       "IATA code": "KRT"
     },
@@ -4408,22 +4408,22 @@
       "IATA code": "KDD"
     },
     {
-      "City/Airport": "Kiel - Holtenau",
+      "City/Airport": "Kiel",
       "Country": "Germany",
       "IATA code": "KEL"
     },
     {
-      "City/Airport": "Kiev - Borispol",
+      "City/Airport": "Kiev",
       "Country": "Ukraine",
       "IATA code": "KBP"
     },
     {
-      "City/Airport": "Kiev - Zhulhany",
+      "City/Airport": "Kiev",
       "Country": "Ukraine",
       "IATA code": "IEV"
     },
     {
-      "City/Airport": "Kigali - Gregoire Kayibanda",
+      "City/Airport": "Kigali",
       "Country": "Rwanda",
       "IATA code": "KGL"
     },
@@ -4458,7 +4458,7 @@
       "IATA code": "KGC"
     },
     {
-      "City/Airport": "Kingston - Norman Manley",
+      "City/Airport": "Kingston",
       "Country": "Jamaica",
       "IATA code": "KIN"
     },
@@ -4468,17 +4468,17 @@
       "IATA code": "ISO"
     },
     {
-      "City/Airport": "Kingstown - E. T. Joshua Airport",
+      "City/Airport": "Kingstown",
       "Country": "Saint Vincent and the Grenadines",
       "IATA code": "SVD"
     },
     {
-      "City/Airport": "Kinshasa - N'Djili",
+      "City/Airport": "Kinshasa",
       "Country": "Congo (DRC)",
       "IATA code": "FIH"
     },
     {
-      "City/Airport": "Kiritimati (island) - Cassidy International Airport",
+      "City/Airport": "Kiritimati (island)",
       "Country": "Kiribati",
       "IATA code": "CXI"
     },
@@ -4578,7 +4578,7 @@
       "IATA code": "KOK"
     },
     {
-      "City/Airport": "Kolkata (Calcutta) - Netaji Subhas Chandra",
+      "City/Airport": "Kolkata (Calcutta)",
       "Country": "India",
       "IATA code": "CCU"
     },
@@ -4623,7 +4623,7 @@
       "IATA code": "KWM"
     },
     {
-      "City/Airport": "Krakow (Cracow) - John Paul II International Airport",
+      "City/Airport": "Krakow (Cracow)",
       "Country": "Poland",
       "IATA code": "KRK"
     },
@@ -4643,12 +4643,12 @@
       "IATA code": "KSU"
     },
     {
-      "City/Airport": "Kuala Lumpur - International Airport",
+      "City/Airport": "Kuala Lumpur",
       "Country": "Malaysia",
       "IATA code": "KUL"
     },
     {
-      "City/Airport": "Kuala Lumpur - Sultan Abdul Aziz Shah",
+      "City/Airport": "Kuala Lumpur",
       "Country": "Malaysia",
       "IATA code": "SZB"
     },
@@ -4698,7 +4698,7 @@
       "IATA code": "KAO"
     },
     {
-      "City/Airport": "Kuwait - Kuwait International",
+      "City/Airport": "Kuwait",
       "Country": "Kuwait",
       "IATA code": "KWI"
     },
@@ -4738,7 +4738,7 @@
       "IATA code": "LSE"
     },
     {
-      "City/Airport": "Lae - Lae Nadzab Airport",
+      "City/Airport": "Lae",
       "Country": "Papua New Guinea",
       "IATA code": "LAE"
     },
@@ -4758,7 +4758,7 @@
       "IATA code": "LFT"
     },
     {
-      "City/Airport": "Lagos - Murtala Muhammed Airport",
+      "City/Airport": "Lagos",
       "Country": "Nigeria",
       "IATA code": "LOS"
     },
@@ -4843,12 +4843,12 @@
       "IATA code": "LAN"
     },
     {
-      "City/Airport": "La Paz - El Alto",
+      "City/Airport": "La Paz",
       "Country": "Bolivia",
       "IATA code": "LPB"
     },
     {
-      "City/Airport": "La Paz - Leon",
+      "City/Airport": "La Paz",
       "Country": "Mexico",
       "IATA code": "LAP"
     },
@@ -5003,17 +5003,17 @@
       "IATA code": "LIH"
     },
     {
-      "City/Airport": "Lille - Lille Airport",
+      "City/Airport": "Lille",
       "Country": "France",
       "IATA code": "LIL"
     },
     {
-      "City/Airport": "Lilongwe - Lilongwe International",
+      "City/Airport": "Lilongwe",
       "Country": "Malawi",
       "IATA code": "LLW"
     },
     {
-      "City/Airport": "Lima - J Chavez International",
+      "City/Airport": "Lima",
       "Country": "Peru",
       "IATA code": "LIM"
     },
@@ -5038,7 +5038,7 @@
       "IATA code": "LDC"
     },
     {
-      "City/Airport": "Linz - Hoersching",
+      "City/Airport": "Linz",
       "Country": "Austria",
       "IATA code": "LNZ"
     },
@@ -5048,7 +5048,7 @@
       "IATA code": "LIQ"
     },
     {
-      "City/Airport": "Lisbon - Lisboa",
+      "City/Airport": "Lisbon",
       "Country": "Portugal",
       "IATA code": "LIS"
     },
@@ -5073,7 +5073,7 @@
       "IATA code": "LZR"
     },
     {
-      "City/Airport": "Ljubljana - Brnik",
+      "City/Airport": "Ljubljana",
       "Country": "Slovenia",
       "IATA code": "LJU"
     },
@@ -5098,32 +5098,32 @@
       "IATA code": "LON"
     },
     {
-      "City/Airport": "London - City Airport",
+      "City/Airport": "London",
       "Country": "United Kingdom",
       "IATA code": "LCY"
     },
     {
-      "City/Airport": "London - Gatwick",
+      "City/Airport": "London",
       "Country": "United Kingdom",
       "IATA code": "LGW"
     },
     {
-      "City/Airport": "London - Heathrow",
+      "City/Airport": "London",
       "Country": "United Kingdom",
       "IATA code": "LHR"
     },
     {
-      "City/Airport": "London - Luton",
+      "City/Airport": "London",
       "Country": "United Kingdom",
       "IATA code": "LTN"
     },
     {
-      "City/Airport": "London - Stansted",
+      "City/Airport": "London",
       "Country": "United Kingdom",
       "IATA code": "STN"
     },
     {
-      "City/Airport": "Londonderry - Eglinton",
+      "City/Airport": "Londonderry",
       "Country": "United Kingdom",
       "IATA code": "LDY"
     },
@@ -5138,7 +5138,7 @@
       "IATA code": "LIJ"
     },
     {
-      "City/Airport": "Long Island, Islip (NY) - Mac Arthur",
+      "City/Airport": "Long Island, Islip (NY)",
       "Country": "USA",
       "IATA code": "ISP"
     },
@@ -5153,7 +5153,7 @@
       "IATA code": "GGG"
     },
     {
-      "City/Airport": "Longyearbyen - Svalbard",
+      "City/Airport": "Longyearbyen",
       "Country": "Svalbard/Norway",
       "IATA code": "LYR"
     },
@@ -5168,7 +5168,7 @@
       "IATA code": "LRT"
     },
     {
-      "City/Airport": "Los Angeles (CA) - International",
+      "City/Airport": "Los Angeles (CA)",
       "Country": "USA",
       "IATA code": "LAX"
     },
@@ -5188,7 +5188,7 @@
       "IATA code": "TFN"
     },
     {
-      "City/Airport": "Losinj - Losinj Arpt",
+      "City/Airport": "Losinj",
       "Country": "Croatia (Hrvatska)",
       "IATA code": "LSZ"
     },
@@ -5203,7 +5203,7 @@
       "IATA code": "SDF"
     },
     {
-      "City/Airport": "Luanda - 4 de Fevereiro",
+      "City/Airport": "Luanda",
       "Country": "Angola",
       "IATA code": "LAD"
     },
@@ -5243,7 +5243,7 @@
       "IATA code": "FBM"
     },
     {
-      "City/Airport": "Lusaka - Lusaka International Airport",
+      "City/Airport": "Lusaka",
       "Country": "Zambia",
       "IATA code": "LUN"
     },
@@ -5258,7 +5258,7 @@
       "IATA code": "LUX"
     },
     {
-      "City/Airport": "Luxi - Mangshi",
+      "City/Airport": "Luxi",
       "Country": "Yunnan, PR China",
       "IATA code": "LUM"
     },
@@ -5273,7 +5273,7 @@
       "IATA code": "LWO"
     },
     {
-      "City/Airport": "Lydd - Lydd International Airport",
+      "City/Airport": "Lydd",
       "Country": "United Kingdom",
       "IATA code": "LYX"
     },
@@ -5283,12 +5283,12 @@
       "IATA code": "LYH"
     },
     {
-      "City/Airport": "Lyon - Lyon-Saint Exupéry Airport",
+      "City/Airport": "Lyon",
       "Country": "France",
       "IATA code": "LYS"
     },
     {
-      "City/Airport": "Lyons (KS) - Rice County Municipal",
+      "City/Airport": "Lyons (KS)",
       "Country": "USA",
       "IATA code": "LYO"
     },
@@ -5298,17 +5298,17 @@
       "IATA code": "MST"
     },
     {
-      "City/Airport": "Macapa - Alberto Alcolumbre International Airport",
+      "City/Airport": "Macapa",
       "Country": "Brazil",
       "IATA code": "MCP"
     },
     {
-      "City/Airport": "Macau - Macau International Airport",
+      "City/Airport": "Macau",
       "Country": "Macau, China SAR",
       "IATA code": "MFM"
     },
     {
-      "City/Airport": "Maceio - Zumbi dos Palmares International Airport",
+      "City/Airport": "Maceio",
       "Country": "Brazil",
       "IATA code": "MCZ"
     },
@@ -5323,32 +5323,32 @@
       "IATA code": "MCN"
     },
     {
-      "City/Airport": "Mactan Island - Nab",
+      "City/Airport": "Mactan Island",
       "Country": "Philippines",
       "IATA code": "NOP"
     },
     {
-      "City/Airport": "Madinah (Medina) - Mohammad Bin Abdulaziz",
+      "City/Airport": "Madinah (Medina)",
       "Country": "Saudi Arabia",
       "IATA code": "MED"
     },
     {
-      "City/Airport": "Madison (WI) - Dane County Regional Airport",
+      "City/Airport": "Madison (WI)",
       "Country": "USA",
       "IATA code": "MSN"
     },
     {
-      "City/Airport": "Madras (Chennai) - Chennai International Airport",
+      "City/Airport": "Madras (Chennai)",
       "Country": "India",
       "IATA code": "MAA"
     },
     {
-      "City/Airport": "Madrid - Barajas Airport",
+      "City/Airport": "Madrid",
       "Country": "Spain",
       "IATA code": "MAD"
     },
     {
-      "City/Airport": "Mahe - Seychelles International",
+      "City/Airport": "Mahe",
       "Country": "Seychelles",
       "IATA code": "SEZ"
     },
@@ -5373,7 +5373,7 @@
       "IATA code": "MZG"
     },
     {
-      "City/Airport": "Malabo - Malabo International Airport",
+      "City/Airport": "Malabo",
       "Country": "Equatorial Guinea",
       "IATA code": "SSG"
     },
@@ -5388,7 +5388,7 @@
       "IATA code": "MLX"
     },
     {
-      "City/Airport": "Male - Velana International Airport",
+      "City/Airport": "Male",
       "Country": "Maledives",
       "IATA code": "MLE"
     },
@@ -5403,7 +5403,7 @@
       "IATA code": "MMA"
     },
     {
-      "City/Airport": "Malmo (Malmö) - Malmö Airport",
+      "City/Airport": "Malmo (Malmö)",
       "Country": "Sweden",
       "IATA code": "MMX"
     },
@@ -5413,12 +5413,12 @@
       "IATA code": "MJC"
     },
     {
-      "City/Airport": "Managua - Augusto C Sandino",
+      "City/Airport": "Managua",
       "Country": "Nicaragua",
       "IATA code": "MGA"
     },
     {
-      "City/Airport": "Manaus - Eduardo Gomes International Airport",
+      "City/Airport": "Manaus",
       "Country": "Brazil",
       "IATA code": "MAO"
     },
@@ -5433,7 +5433,7 @@
       "IATA code": "MHT"
     },
     {
-      "City/Airport": "Mandalay - Mandalay-Annisaton Airport",
+      "City/Airport": "Mandalay",
       "Country": "Myanmar",
       "IATA code": "MDL"
     },
@@ -5448,7 +5448,7 @@
       "IATA code": "XMH"
     },
     {
-      "City/Airport": "Manila - Ninoy Aquino International",
+      "City/Airport": "Manila",
       "Country": "Philippines",
       "IATA code": "MNL"
     },
@@ -5458,12 +5458,12 @@
       "IATA code": "ZLO"
     },
     {
-      "City/Airport": "Manzini - Matsapha International",
+      "City/Airport": "Manzini",
       "Country": "Swaziland",
       "IATA code": "MTS"
     },
     {
-      "City/Airport": "Maputo - Maputo International",
+      "City/Airport": "Maputo",
       "Country": "Mozambique",
       "IATA code": "MPM"
     },
@@ -5473,7 +5473,7 @@
       "IATA code": "MDQ"
     },
     {
-      "City/Airport": "Maracaibo - La Chinita International",
+      "City/Airport": "Maracaibo",
       "Country": "Venezuela",
       "IATA code": "MAR"
     },
@@ -5533,7 +5533,7 @@
       "IATA code": "MQT"
     },
     {
-      "City/Airport": "Marrakesh - Menara Airport",
+      "City/Airport": "Marrakesh",
       "Country": "Morocco",
       "IATA code": "RAK"
     },
@@ -5548,7 +5548,7 @@
       "IATA code": "MUH"
     },
     {
-      "City/Airport": "Marseille - Marseille Provence Airport",
+      "City/Airport": "Marseille",
       "Country": "France",
       "IATA code": "MRS"
     },
@@ -5573,7 +5573,7 @@
       "IATA code": "MBH"
     },
     {
-      "City/Airport": "Maseru - Moshoeshoe International",
+      "City/Airport": "Maseru",
       "Country": "Lesotho",
       "IATA code": "MSU"
     },
@@ -5613,7 +5613,7 @@
       "IATA code": "MAU"
     },
     {
-      "City/Airport": "Mauritius - S.Seewoosagur Ram International",
+      "City/Airport": "Mauritius",
       "Country": "Mauritius",
       "IATA code": "MRU"
     },
@@ -5633,17 +5633,17 @@
       "IATA code": "MFE"
     },
     {
-      "City/Airport": "Medan - Polania Int'l (now Soewondo AFB)",
+      "City/Airport": "Medan",
       "Country": "Indonesia",
       "IATA code": "MES"
     },
     {
-      "City/Airport": "Medan - Kualanamu International",
+      "City/Airport": "Medan",
       "Country": "Indonesia",
       "IATA code": "KNO"
     },
     {
-      "City/Airport": "Medellin - José María Córdova International",
+      "City/Airport": "Medellin",
       "Country": "Colombia",
       "IATA code": "MDE"
     },
@@ -5663,7 +5663,7 @@
       "IATA code": "MKR"
     },
     {
-      "City/Airport": "Melbourne - Melbourne Airport (Tullamarine)",
+      "City/Airport": "Melbourne",
       "Country": "Australia",
       "IATA code": "MEL"
     },
@@ -5723,12 +5723,12 @@
       "IATA code": "MTM"
     },
     {
-      "City/Airport": "Metz - Frescaty",
+      "City/Airport": "Metz",
       "Country": "France",
       "IATA code": "MZM"
     },
     {
-      "City/Airport": "Metz/Nancy Metz-Nancy-Lorraine",
+      "City/Airport": "Metz/Nancy Met",
       "Country": "France",
       "IATA code": "ETZ"
     },
@@ -5738,22 +5738,22 @@
       "IATA code": "MXL"
     },
     {
-      "City/Airport": "Mexico City - Mexico City International Airport",
+      "City/Airport": "Mexico City",
       "Country": "Mexico",
       "IATA code": "MEX"
     },
     {
-      "City/Airport": "Mexico City - Atizapan",
+      "City/Airport": "Mexico City",
       "Country": "Mexico",
       "IATA code": "AZP"
     },
     {
-      "City/Airport": "Mexico City - Juarez International",
+      "City/Airport": "Mexico City",
       "Country": "Mexico",
       "IATA code": "MEX"
     },
     {
-      "City/Airport": "Mexico City - Santa Lucia",
+      "City/Airport": "Mexico City",
       "Country": "Mexico",
       "IATA code": "NLU"
     },
@@ -5783,7 +5783,7 @@
       "IATA code": "MAF"
     },
     {
-      "City/Airport": "Midway Island - Sand Island Field",
+      "City/Airport": "Midway Island",
       "Country": "US Minor Outlying Islands",
       "IATA code": "MDY"
     },
@@ -5798,17 +5798,17 @@
       "IATA code": "MIL"
     },
     {
-      "City/Airport": "Milan - Linate",
+      "City/Airport": "Milan",
       "Country": "Italy",
       "IATA code": "LIN"
     },
     {
-      "City/Airport": "Milan - Malpensa",
+      "City/Airport": "Milan",
       "Country": "Italy",
       "IATA code": "MXP"
     },
     {
-      "City/Airport": "Milan - Orio Al Serio",
+      "City/Airport": "Milan",
       "Country": "Italy",
       "IATA code": "BGY"
     },
@@ -5843,7 +5843,7 @@
       "IATA code": "MRV"
     },
     {
-      "City/Airport": "Minneapolis - St. Paul International Airport (MN)",
+      "City/Airport": "Minneapolis",
       "Country": "USA",
       "IATA code": "MSP"
     },
@@ -5878,7 +5878,7 @@
       "IATA code": "MHE"
     },
     {
-      "City/Airport": "Miyako Jima (Ryuku Islands) - Hirara",
+      "City/Airport": "Miyako Jima (Ryuku Islands)",
       "Country": "Japan",
       "IATA code": "MMY"
     },
@@ -5898,7 +5898,7 @@
       "IATA code": "MFF"
     },
     {
-      "City/Airport": "Mobile (AL) - Pascagoula (MS)",
+      "City/Airport": "Mobile (AL)",
       "Country": "USA",
       "IATA code": "MOB"
     },
@@ -5928,7 +5928,7 @@
       "IATA code": "MLI"
     },
     {
-      "City/Airport": "Mombasa - Moi International",
+      "City/Airport": "Mombasa",
       "Country": "Kenya",
       "IATA code": "MBA"
     },
@@ -5948,17 +5948,17 @@
       "IATA code": "MLU"
     },
     {
-      "City/Airport": "Monrovia - Metropolitan Area",
+      "City/Airport": "Monrovia",
       "Country": "Liberia",
       "IATA code": "MLW"
     },
     {
-      "City/Airport": "Monrovia - Roberts International",
+      "City/Airport": "Monrovia",
       "Country": "Liberia",
       "IATA code": "ROB"
     },
     {
-      "City/Airport": "Montego Bay - Sangster International",
+      "City/Airport": "Montego Bay",
       "Country": "Jamaica",
       "IATA code": "MBJ"
     },
@@ -5973,27 +5973,27 @@
       "IATA code": "MRY"
     },
     {
-      "City/Airport": "Monterrey - Gen. Mariano Escobedo",
+      "City/Airport": "Monterrey",
       "Country": "Mexico",
       "IATA code": "MTY"
     },
     {
-      "City/Airport": "Monterrey - Aeropuerto Del Norte",
+      "City/Airport": "Monterrey",
       "Country": "Mexico",
       "IATA code": "NTR"
     },
     {
-      "City/Airport": "Montevideo - Carrasco International Airport",
+      "City/Airport": "Montevideo",
       "Country": "Uruguay",
       "IATA code": "MVD"
     },
     {
-      "City/Airport": "Montgomery (AL) - Montgomery Regional Airport",
+      "City/Airport": "Montgomery (AL)",
       "Country": "USA",
       "IATA code": "MGM"
     },
     {
-      "City/Airport": "Montpellier - Montpellier–Méditerranée Airport",
+      "City/Airport": "Montpellier",
       "Country": "France",
       "IATA code": "MPL"
     },
@@ -6003,12 +6003,12 @@
       "IATA code": "YMQ"
     },
     {
-      "City/Airport": "Montreal - Dorval (Montréal-Trudeau)",
+      "City/Airport": "Montreal",
       "Country": "Canada",
       "IATA code": "YUL"
     },
     {
-      "City/Airport": "Montreal - Mirabel",
+      "City/Airport": "Montreal",
       "Country": "Canada",
       "IATA code": "YMX"
     },
@@ -6048,7 +6048,7 @@
       "IATA code": "HNA"
     },
     {
-      "City/Airport": "Moroni - Prince Said Ibrahim",
+      "City/Airport": "Moroni",
       "Country": "Comoros (Comores)",
       "IATA code": "HAH"
     },
@@ -6058,22 +6058,22 @@
       "IATA code": "MYA"
     },
     {
-      "City/Airport": "Moscow - Metropolitan Area",
+      "City/Airport": "Moscow",
       "Country": "Russia",
       "IATA code": "MOW"
     },
     {
-      "City/Airport": "Moscow - Domodedovo",
+      "City/Airport": "Moscow",
       "Country": "Russia",
       "IATA code": "DME"
     },
     {
-      "City/Airport": "Moscow - Sheremetyevo",
+      "City/Airport": "Moscow",
       "Country": "Russia",
       "IATA code": "SVO"
     },
     {
-      "City/Airport": "Moscow - Vnukovo",
+      "City/Airport": "Moscow",
       "Country": "Russia",
       "IATA code": "VKO"
     },
@@ -6133,7 +6133,7 @@
       "IATA code": "MCL"
     },
     {
-      "City/Airport": "Muenchen (Munich) - Franz Josef Strauss",
+      "City/Airport": "Muenchen (Munich)",
       "Country": "Germany",
       "IATA code": "MUC"
     },
@@ -6168,7 +6168,7 @@
       "IATA code": "MSR"
     },
     {
-      "City/Airport": "Muscat - Seeb",
+      "City/Airport": "Muscat",
       "Country": "Oman",
       "IATA code": "MCT"
     },
@@ -6198,12 +6198,12 @@
       "IATA code": "JMK"
     },
     {
-      "City/Airport": "Myrtle Beach (SC) - Myrtle Beach AFB",
+      "City/Airport": "Myrtle Beach (SC)",
       "Country": "USA",
       "IATA code": "MYR"
     },
     {
-      "City/Airport": "Myrtle Beach (SC) - Grand Strand Airport",
+      "City/Airport": "Myrtle Beach (SC)",
       "Country": "USA",
       "IATA code": "CRE"
     },
@@ -6233,7 +6233,7 @@
       "IATA code": "NGS"
     },
     {
-      "City/Airport": "Nagoya - Komaki AFB",
+      "City/Airport": "Nagoya",
       "Country": "Japan",
       "IATA code": "NGO"
     },
@@ -6273,7 +6273,7 @@
       "IATA code": "NNG"
     },
     {
-      "City/Airport": "Nantes - Nantes Atlantique Airport",
+      "City/Airport": "Nantes",
       "Country": "France",
       "IATA code": "NTE"
     },
@@ -6283,7 +6283,7 @@
       "IATA code": "ACK"
     },
     {
-      "City/Airport": "Naples - Naples Capodichino Airport",
+      "City/Airport": "Naples",
       "Country": "Italy",
       "IATA code": "NAP"
     },
@@ -6318,7 +6318,7 @@
       "IATA code": "NAS"
     },
     {
-      "City/Airport": "Natal - Augusto Severo International Airport",
+      "City/Airport": "Natal",
       "Country": "Brazil",
       "IATA code": "NAT"
     },
@@ -6333,7 +6333,7 @@
       "IATA code": "WNS"
     },
     {
-      "City/Airport": "Naxos - Naxos Airport",
+      "City/Airport": "Naxos",
       "Country": "Greece",
       "IATA code": "JNX"
     },
@@ -6358,7 +6358,7 @@
       "IATA code": "NLP"
     },
     {
-      "City/Airport": "Nelspruit - Kruger Mpumalanga International Airport",
+      "City/Airport": "Nelspruit",
       "Country": "South Africa",
       "IATA code": "MQP"
     },
@@ -6388,22 +6388,22 @@
       "IATA code": "NQY"
     },
     {
-      "City/Airport": "New Valley - Kharga",
+      "City/Airport": "New Valley",
       "Country": "Egypt",
       "IATA code": "UVL"
     },
     {
-      "City/Airport": "New York - John F. Kennedy (NY)",
+      "City/Airport": "New York",
       "Country": "USA",
       "IATA code": "JFK"
     },
     {
-      "City/Airport": "New York - LaGuardia (NY)",
+      "City/Airport": "New York",
       "Country": "USA",
       "IATA code": "LGA"
     },
     {
-      "City/Airport": "New York - Newark (NJ)",
+      "City/Airport": "New York",
       "Country": "USA",
       "IATA code": "EWR"
     },
@@ -6418,12 +6418,12 @@
       "IATA code": "SWF"
     },
     {
-      "City/Airport": "Newcastle - Belmont",
+      "City/Airport": "Newcastle",
       "Country": "Australia",
       "IATA code": "BEO"
     },
     {
-      "City/Airport": "Newcastle - Williamtown",
+      "City/Airport": "Newcastle",
       "Country": "Australia",
       "IATA code": "NTL"
     },
@@ -6463,7 +6463,7 @@
       "IATA code": "NIM"
     },
     {
-      "City/Airport": "Nice - Cote D'Azur Airport",
+      "City/Airport": "Nice",
       "Country": "France",
       "IATA code": "NCE"
     },
@@ -6493,7 +6493,7 @@
       "IATA code": "INI"
     },
     {
-      "City/Airport": "Nizhny Novgorod - Strigino International Airport",
+      "City/Airport": "Nizhny Novgorod",
       "Country": "Russia",
       "IATA code": "GOJ"
     },
@@ -6543,7 +6543,7 @@
       "IATA code": "NWI"
     },
     {
-      "City/Airport": "Nottingham - East Midlands",
+      "City/Airport": "Nottingham",
       "Country": "United Kingdom",
       "IATA code": "EMA"
     },
@@ -6568,7 +6568,7 @@
       "IATA code": "QND"
     },
     {
-      "City/Airport": "Novosibirsk - Tolmachevo Airport",
+      "City/Airport": "Novosibirsk",
       "Country": "Russia",
       "IATA code": "OVB"
     },
@@ -6583,7 +6583,7 @@
       "IATA code": "NLD"
     },
     {
-      "City/Airport": "Nuku'alofa - Fua'Amotu International",
+      "City/Airport": "Nuku'alofa",
       "Country": "Tonga",
       "IATA code": "TBU"
     },
@@ -6593,7 +6593,7 @@
       "IATA code": "OAK"
     },
     {
-      "City/Airport": "Oaxaca - Xoxocotlan",
+      "City/Airport": "Oaxaca",
       "Country": "Mexico",
       "IATA code": "OAX"
     },
@@ -6628,12 +6628,12 @@
       "IATA code": "OKJ"
     },
     {
-      "City/Airport": "Okinawa, Ryukyo Island - Naha",
+      "City/Airport": "Okinawa, Ryukyo Island",
       "Country": "Japan",
       "IATA code": "OKA"
     },
     {
-      "City/Airport": "Oklahoma City (OK) - Will Rogers World",
+      "City/Airport": "Oklahoma City (OK)",
       "Country": "USA",
       "IATA code": "OKC"
     },
@@ -6683,12 +6683,12 @@
       "IATA code": "OMD"
     },
     {
-      "City/Airport": "Oranjestad - Reina Beatrix International",
+      "City/Airport": "Oranjestad",
       "Country": "Aruba",
       "IATA code": "AUA"
     },
     {
-      "City/Airport": "Orkney - Kirkwall",
+      "City/Airport": "Orkney",
       "Country": "United Kingdom",
       "IATA code": "KOI"
     },
@@ -6698,7 +6698,7 @@
       "IATA code": "ORL"
     },
     {
-      "City/Airport": "Orlando - International Airport (FL)",
+      "City/Airport": "Orlando",
       "Country": "USA",
       "IATA code": "MCO"
     },
@@ -6713,12 +6713,12 @@
       "IATA code": "OSA"
     },
     {
-      "City/Airport": "Osaka - Itami",
+      "City/Airport": "Osaka",
       "Country": "Japan",
       "IATA code": "ITM"
     },
     {
-      "City/Airport": "Osaka - Kansai International Airport",
+      "City/Airport": "Osaka",
       "Country": "Japan",
       "IATA code": "KIX"
     },
@@ -6733,22 +6733,22 @@
       "IATA code": "OSI"
     },
     {
-      "City/Airport": "Oslo - Oslo Airport, Gardermoen",
+      "City/Airport": "Oslo",
       "Country": "Norway",
       "IATA code": "OSL"
     },
     {
-      "City/Airport": "Oslo - Fornebu",
+      "City/Airport": "Oslo",
       "Country": "Norway",
       "IATA code": "FBU"
     },
     {
-      "City/Airport": "Oslo - Sandefjord",
+      "City/Airport": "Oslo",
       "Country": "Norway",
       "IATA code": "TRF"
     },
     {
-      "City/Airport": "Ottawa - Hull",
+      "City/Airport": "Ottawa",
       "Country": "Canada",
       "IATA code": "YOW"
     },
@@ -6833,7 +6833,7 @@
       "IATA code": "PKB"
     },
     {
-      "City/Airport": "Palermo - Punta Raisi",
+      "City/Airport": "Palermo",
       "Country": "Italy",
       "IATA code": "PMO"
     },
@@ -6863,7 +6863,7 @@
       "IATA code": "PSP"
     },
     {
-      "City/Airport": "Panama City - Tocumen International",
+      "City/Airport": "Panama City",
       "Country": "Panama",
       "IATA code": "PTY"
     },
@@ -6883,7 +6883,7 @@
       "IATA code": "PNL"
     },
     {
-      "City/Airport": "Papeete - Faaa",
+      "City/Airport": "Papeete",
       "Country": "French Polynesia (Tahiti)",
       "IATA code": "PPT"
     },
@@ -6898,7 +6898,7 @@
       "IATA code": "PBO"
     },
     {
-      "City/Airport": "Paramaribo - Zanderij International",
+      "City/Airport": "Paramaribo",
       "Country": "Suriname",
       "IATA code": "PBM"
     },
@@ -6908,17 +6908,17 @@
       "IATA code": "PAR"
     },
     {
-      "City/Airport": "Paris - Charles de Gaulle",
+      "City/Airport": "Paris",
       "Country": "France",
       "IATA code": "CDG"
     },
     {
-      "City/Airport": "Paris - Le Bourget",
+      "City/Airport": "Paris",
       "Country": "France",
       "IATA code": "LBG"
     },
     {
-      "City/Airport": "Paris - Orly",
+      "City/Airport": "Paris",
       "Country": "France",
       "IATA code": "ORY"
     },
@@ -7018,17 +7018,17 @@
       "IATA code": "PHW"
     },
     {
-      "City/Airport": "Philadelphia (PA) - International",
+      "City/Airport": "Philadelphia (PA)",
       "Country": "USA",
       "IATA code": "PHL"
     },
     {
-      "City/Airport": "Phnom Penh - Pochentong",
+      "City/Airport": "Phnom Penh",
       "Country": "Cambodia",
       "IATA code": "PNH"
     },
     {
-      "City/Airport": "Phoenix (AZ) - Sky Harbor International",
+      "City/Airport": "Phoenix (AZ)",
       "Country": "USA",
       "IATA code": "PHX"
     },
@@ -7058,7 +7058,7 @@
       "IATA code": "NTY"
     },
     {
-      "City/Airport": "Pisa - Galileo Galilei",
+      "City/Airport": "Pisa",
       "Country": "Italy",
       "IATA code": "PSA"
     },
@@ -7103,7 +7103,7 @@
       "IATA code": "PNR"
     },
     {
-      "City/Airport": "Poitiers - Biard",
+      "City/Airport": "Poitiers",
       "Country": "France",
       "IATA code": "PIS"
     },
@@ -7188,7 +7188,7 @@
       "IATA code": "YPN"
     },
     {
-      "City/Airport": "Port Moresby - Jackson Field",
+      "City/Airport": "Port Moresby",
       "Country": "Papua New Guinea",
       "IATA code": "POM"
     },
@@ -7198,12 +7198,12 @@
       "IATA code": "OPO"
     },
     {
-      "City/Airport": "Porto Alegre - Salgado Filho International Airport",
+      "City/Airport": "Porto Alegre",
       "Country": "Brazil",
       "IATA code": "POA"
     },
     {
-      "City/Airport": "Port of Spain - Piarco International",
+      "City/Airport": "Port of Spain",
       "Country": "Trinidad and Tobago",
       "IATA code": "POS"
     },
@@ -7238,12 +7238,12 @@
       "IATA code": "POZ"
     },
     {
-      "City/Airport": "Prague - Václav Havel Airport (formerly Ruzyne)",
+      "City/Airport": "Prague",
       "Country": "Czech Republic",
       "IATA code": "PRG"
     },
     {
-      "City/Airport": "Praia - Nelson Mandela International Airport",
+      "City/Airport": "Praia",
       "Country": "Cape Verde",
       "IATA code": "RAI"
     },
@@ -7253,7 +7253,7 @@
       "IATA code": "PQI"
     },
     {
-      "City/Airport": "Pretoria - Wonderboom Apt.",
+      "City/Airport": "Pretoria",
       "Country": "South Africa",
       "IATA code": "PRY"
     },
@@ -7343,27 +7343,27 @@
       "IATA code": "PNQ"
     },
     {
-      "City/Airport": "Punta Arenas - Presidente Carlos Ibáñez del Campo",
+      "City/Airport": "Punta Arenas",
       "Country": "Chile",
       "IATA code": "PUQ"
     },
     {
-      "City/Airport": "Punta Cana - Punta Cana International",
+      "City/Airport": "Punta Cana",
       "Country": "Dominican Republic",
       "IATA code": "PUJ"
     },
     {
-      "City/Airport": "Pu San (Busan) - Gimhae International Airport",
+      "City/Airport": "Pu San (Busan)",
       "Country": "South Korea",
       "IATA code": "PUS"
     },
     {
-      "City/Airport": "Pyongyang - Sunan International Airport",
+      "City/Airport": "Pyongyang",
       "Country": "North Korea",
       "IATA code": "FNJ"
     },
     {
-      "City/Airport": "Quebec - Quebec International",
+      "City/Airport": "Quebec",
       "Country": "Canada",
       "IATA code": "YQB"
     },
@@ -7398,17 +7398,17 @@
       "IATA code": "UIN"
     },
     {
-      "City/Airport": "Quito - Mariscal Sucre International Airport",
+      "City/Airport": "Quito",
       "Country": "Ecuador",
       "IATA code": "UIO"
     },
     {
-      "City/Airport": "Rabat - Rabat-Salé Airport",
+      "City/Airport": "Rabat",
       "Country": "Morocco",
       "IATA code": "RBA"
     },
     {
-      "City/Airport": "Rahim Yar Khan - Shaikh Zayed International Airport",
+      "City/Airport": "Rahim Yar Khan",
       "Country": "Pakistan",
       "IATA code": "RYK"
     },
@@ -7443,7 +7443,7 @@
       "IATA code": "RGI"
     },
     {
-      "City/Airport": "Rangoon (Yangon) - Mingaladon",
+      "City/Airport": "Rangoon (Yangon)",
       "Country": "Myanmar",
       "IATA code": "RGN"
     },
@@ -7478,7 +7478,7 @@
       "IATA code": "RDG"
     },
     {
-      "City/Airport": "Recife - Guararapes-Gilberto Freyre International",
+      "City/Airport": "Recife",
       "Country": "Brazil",
       "IATA code": "REC"
     },
@@ -7528,12 +7528,12 @@
       "IATA code": "REU"
     },
     {
-      "City/Airport": "Reykjavik - Metropolitan Area",
+      "City/Airport": "Reykjavik",
       "Country": "Iceland",
       "IATA code": "REK"
     },
     {
-      "City/Airport": "Reykjavik - Keflavik International",
+      "City/Airport": "Reykjavik",
       "Country": "Iceland",
       "IATA code": "KEF"
     },
@@ -7573,17 +7573,17 @@
       "IATA code": "RMI"
     },
     {
-      "City/Airport": "Rio Branco - Plácido de Castro International Airport",
+      "City/Airport": "Rio Branco",
       "Country": "Brazil",
       "IATA code": "RBR"
     },
     {
-      "City/Airport": "Rio de Janeiro - Galeao",
+      "City/Airport": "Rio de Janeiro",
       "Country": "Brazil",
       "IATA code": "GIG"
     },
     {
-      "City/Airport": "Rio de Janeiro - Santos Dumont",
+      "City/Airport": "Rio de Janeiro",
       "Country": "Brazil",
       "IATA code": "SDU"
     },
@@ -7593,7 +7593,7 @@
       "IATA code": "RIO"
     },
     {
-      "City/Airport": "Riyadh - King Khaled International",
+      "City/Airport": "Riyadh",
       "Country": "Saudi Arabia",
       "IATA code": "RUH"
     },
@@ -7648,7 +7648,7 @@
       "IATA code": "RKD"
     },
     {
-      "City/Airport": "Rocky Mount - Wilson (NC)",
+      "City/Airport": "Rocky Mount",
       "Country": "USA",
       "IATA code": "RWI"
     },
@@ -7673,12 +7673,12 @@
       "IATA code": "ROM"
     },
     {
-      "City/Airport": "Rome - Ciampino",
+      "City/Airport": "Rome",
       "Country": "Italy",
       "IATA code": "CIA"
     },
     {
-      "City/Airport": "Rome - Fuimicino",
+      "City/Airport": "Rome",
       "Country": "Italy",
       "IATA code": "FCO"
     },
@@ -7693,12 +7693,12 @@
       "IATA code": "ROS"
     },
     {
-      "City/Airport": "Rostov-on-Don - Rostov-on-Don Airport",
+      "City/Airport": "Rosto",
       "Country": "Russia",
       "IATA code": "RVI"
     },
     {
-      "City/Airport": "Rostov-on-Don - Platov International Airport",
+      "City/Airport": "Rosto",
       "Country": "Russia",
       "IATA code": "ROV"
     },
@@ -7753,7 +7753,7 @@
       "IATA code": "SDT"
     },
     {
-      "City/Airport": "Saigon (Ho Chi Minh City) - Tan Son Nhat International",
+      "City/Airport": "Saigon (Ho Chi Minh City)",
       "Country": "Viet Nam",
       "IATA code": "SGN"
     },
@@ -7763,7 +7763,7 @@
       "IATA code": "SBK"
     },
     {
-      "City/Airport": "Saint Denis - Roland Garros Airport",
+      "City/Airport": "Saint Denis",
       "Country": "Reunion",
       "IATA code": "RUN"
     },
@@ -7828,22 +7828,22 @@
       "IATA code": "SLC"
     },
     {
-      "City/Airport": "Salvador - Salvador International Airport",
+      "City/Airport": "Salvador",
       "Country": "Brazil",
       "IATA code": "SSA"
     },
     {
-      "City/Airport": "Salzburg - W.A. Mozart",
+      "City/Airport": "Salzburg",
       "Country": "Austria",
       "IATA code": "SZG"
     },
     {
-      "City/Airport": "Samara - Kurumoch International Airport",
+      "City/Airport": "Samara",
       "Country": "Russia",
       "IATA code": "KUF"
     },
     {
-      "City/Airport": "Samarkand - Samarkand International Airport",
+      "City/Airport": "Samarkand",
       "Country": "Uzbekistan",
       "IATA code": "SKD"
     },
@@ -7878,12 +7878,12 @@
       "IATA code": "BRC"
     },
     {
-      "City/Airport": "San Diego - Lindberg Field International (CA)",
+      "City/Airport": "San Diego",
       "Country": "USA",
       "IATA code": "SAN"
     },
     {
-      "City/Airport": "San Francisco - International Airport, SA",
+      "City/Airport": "San Francisco",
       "Country": "USA",
       "IATA code": "SFO"
     },
@@ -7903,7 +7903,7 @@
       "IATA code": "SJC"
     },
     {
-      "City/Airport": "San Juan - Luis Munoz Marin International Airport",
+      "City/Airport": "San Juan",
       "Country": "Puerto Rico",
       "IATA code": "SJU"
     },
@@ -7943,7 +7943,7 @@
       "IATA code": "EAS"
     },
     {
-      "City/Airport": "Sanaa (Sana'a) - Sana'a International",
+      "City/Airport": "Sanaa (Sana'a)",
       "Country": "Yemen",
       "IATA code": "SAH"
     },
@@ -7953,7 +7953,7 @@
       "IATA code": "YZP"
     },
     {
-      "City/Airport": "Santa Ana - John Wayne Airport (CA)",
+      "City/Airport": "Santa Ana",
       "Country": "USA",
       "IATA code": "SNA"
     },
@@ -7973,7 +7973,7 @@
       "IATA code": "SRZ"
     },
     {
-      "City/Airport": "Santa Katarina - Mount Sinai",
+      "City/Airport": "Santa Katarina",
       "Country": "Egypt",
       "IATA code": "SKV"
     },
@@ -8028,12 +8028,12 @@
       "IATA code": "SRL"
     },
     {
-      "City/Airport": "Santiago - Antonio Maceo Airport",
+      "City/Airport": "Santiago",
       "Country": "Cuba",
       "IATA code": "SCU"
     },
     {
-      "City/Airport": "Santiago de Chile - Arturo Merino Benitez",
+      "City/Airport": "Santiago de Chile",
       "Country": "Chile",
       "IATA code": "SCL"
     },
@@ -8053,7 +8053,7 @@
       "IATA code": "SDQ"
     },
     {
-      "City/Airport": "Sao Luis - Marechal Cunha Machado International",
+      "City/Airport": "Sao Luis",
       "Country": "Brazil",
       "IATA code": "SLZ"
     },
@@ -8063,17 +8063,17 @@
       "IATA code": "SAO"
     },
     {
-      "City/Airport": "Sao Paulo - Congonhas",
+      "City/Airport": "Sao Paulo",
       "Country": "Brazil",
       "IATA code": "CGH"
     },
     {
-      "City/Airport": "Sao Paulo - Guarulhos",
+      "City/Airport": "Sao Paulo",
       "Country": "Brazil",
       "IATA code": "GRU"
     },
     {
-      "City/Airport": "Sao Paulo - Viracopos",
+      "City/Airport": "Sao Paulo",
       "Country": "Brazil",
       "IATA code": "VCP"
     },
@@ -8088,12 +8088,12 @@
       "IATA code": "SPK"
     },
     {
-      "City/Airport": "Sapporo - Okadama",
+      "City/Airport": "Sapporo",
       "Country": "Hokkaido, Japan",
       "IATA code": "OKD"
     },
     {
-      "City/Airport": "Sapporo - New Chitose Airport",
+      "City/Airport": "Sapporo",
       "Country": "Japan",
       "IATA code": "CTS"
     },
@@ -8103,7 +8103,7 @@
       "IATA code": "SJJ"
     },
     {
-      "City/Airport": "Saransk - Saransk Airport",
+      "City/Airport": "Saransk",
       "Country": "Russia",
       "IATA code": "SKX"
     },
@@ -8133,7 +8133,7 @@
       "IATA code": "SVL"
     },
     {
-      "City/Airport": "Scarborough - Crown Point International",
+      "City/Airport": "Scarborough",
       "Country": "Trinidad and Tobago",
       "IATA code": "TAB"
     },
@@ -8173,12 +8173,12 @@
       "IATA code": "SDJ"
     },
     {
-      "City/Airport": "Seoul - Incheon International Airport",
+      "City/Airport": "Seoul",
       "Country": "South Korea",
       "IATA code": "ICN"
     },
     {
-      "City/Airport": "Seoul - Kimpo",
+      "City/Airport": "Seoul",
       "Country": "South Korea",
       "IATA code": "SEL"
     },
@@ -8198,12 +8198,12 @@
       "IATA code": "ZTM"
     },
     {
-      "City/Airport": "Shanghai - Hongqiao",
+      "City/Airport": "Shanghai",
       "Country": "China",
       "IATA code": "SHA"
     },
     {
-      "City/Airport": "Shanghai - Pu Dong",
+      "City/Airport": "Shanghai",
       "Country": "China",
       "IATA code": "PVG"
     },
@@ -8243,7 +8243,7 @@
       "IATA code": "SHE"
     },
     {
-      "City/Airport": "Shenzhen - Shenzhen Bao'an International",
+      "City/Airport": "Shenzhen",
       "Country": "Guangdong, PR China",
       "IATA code": "SZX"
     },
@@ -8288,17 +8288,17 @@
       "IATA code": "MPD"
     },
     {
-      "City/Airport": "Singapore - Changi",
+      "City/Airport": "Singapore",
       "Country": "Singapore",
       "IATA code": "SIN"
     },
     {
-      "City/Airport": "Singapore - Paya Lebar",
+      "City/Airport": "Singapore",
       "Country": "Singapore",
       "IATA code": "QPG"
     },
     {
-      "City/Airport": "Singapore - Seletar",
+      "City/Airport": "Singapore",
       "Country": "Singapore",
       "IATA code": "XSP"
     },
@@ -8393,7 +8393,7 @@
       "IATA code": "SFJ"
     },
     {
-      "City/Airport": "Sofia - Vrazhdebna",
+      "City/Airport": "Sofia",
       "Country": "Bulgaria",
       "IATA code": "SOF"
     },
@@ -8403,7 +8403,7 @@
       "IATA code": "SOG"
     },
     {
-      "City/Airport": "Southampton - Eastleigh",
+      "City/Airport": "Southampton",
       "Country": "United Kingdom",
       "IATA code": "SOU"
     },
@@ -8513,7 +8513,7 @@
       "IATA code": "SFG"
     },
     {
-      "City/Airport": "St. Petersburg (Leningrad) - Pulkovo",
+      "City/Airport": "St. Petersburg (Leningrad)",
       "Country": "Russia",
       "IATA code": "LED"
     },
@@ -8563,12 +8563,12 @@
       "IATA code": "STO"
     },
     {
-      "City/Airport": "Stockholm - Arlanda",
+      "City/Airport": "Stockholm",
       "Country": "Sweden",
       "IATA code": "ARN"
     },
     {
-      "City/Airport": "Stockholm - Bromma",
+      "City/Airport": "Stockholm",
       "Country": "Sweden",
       "IATA code": "BMA"
     },
@@ -8583,7 +8583,7 @@
       "IATA code": "SYY"
     },
     {
-      "City/Airport": "Strasbourg - Strasbourg Airport",
+      "City/Airport": "Strasbourg",
       "Country": "France",
       "IATA code": "SXB"
     },
@@ -8593,7 +8593,7 @@
       "IATA code": "KBY"
     },
     {
-      "City/Airport": "Stuttgart - Echterdingen",
+      "City/Airport": "Stuttgart",
       "Country": "Germany",
       "IATA code": "STR"
     },
@@ -8628,7 +8628,7 @@
       "IATA code": "MCY"
     },
     {
-      "City/Airport": "Surabaya - Juanda",
+      "City/Airport": "Surabaya",
       "Country": "Indonesia",
       "IATA code": "SUB"
     },
@@ -8638,7 +8638,7 @@
       "IATA code": "STV"
     },
     {
-      "City/Airport": "Suva - Nausori Airport (Luvuluvu)",
+      "City/Airport": "Suva",
       "Country": "Fiji",
       "IATA code": "SUV"
     },
@@ -8648,7 +8648,7 @@
       "IATA code": "SWP"
     },
     {
-      "City/Airport": "Sydney - Sydney Airport",
+      "City/Airport": "Sydney",
       "Country": "Australia",
       "IATA code": "SYD"
     },
@@ -8673,12 +8673,12 @@
       "IATA code": "TIF"
     },
     {
-      "City/Airport": "Taipei - Chiang Kai Shek",
+      "City/Airport": "Taipei",
       "Country": "Taiwan",
       "IATA code": "TPE"
     },
     {
-      "City/Airport": "Taipei - Sung Shan",
+      "City/Airport": "Taipei",
       "Country": "Taiwan",
       "IATA code": "TAY"
     },
@@ -8703,17 +8703,17 @@
       "IATA code": "TLH"
     },
     {
-      "City/Airport": "Tallinn - Pirita Harbour",
+      "City/Airport": "Tallinn",
       "Country": "Estonia",
       "IATA code": "QUF"
     },
     {
-      "City/Airport": "Tallinn - Ulemiste",
+      "City/Airport": "Tallinn",
       "Country": "Estonia",
       "IATA code": "TLL"
     },
     {
-      "City/Airport": "Tampa - International (FL)",
+      "City/Airport": "Tampa",
       "Country": "USA",
       "IATA code": "TPA"
     },
@@ -8723,7 +8723,7 @@
       "IATA code": "TMP"
     },
     {
-      "City/Airport": "Tampico - Gen. F. Javier Mina",
+      "City/Airport": "Tampico",
       "Country": "Mexico",
       "IATA code": "TAM"
     },
@@ -8733,7 +8733,7 @@
       "IATA code": "TMW"
     },
     {
-      "City/Airport": "Tangier - Boukhalef",
+      "City/Airport": "Tangier",
       "Country": "Morocco",
       "IATA code": "TNG"
     },
@@ -8748,7 +8748,7 @@
       "IATA code": "TGV"
     },
     {
-      "City/Airport": "Tashkent - International",
+      "City/Airport": "Tashkent",
       "Country": "Uzbekistan",
       "IATA code": "TAS"
     },
@@ -8758,7 +8758,7 @@
       "IATA code": "TWU"
     },
     {
-      "City/Airport": "Tbilisi - Novo Alexeyevka",
+      "City/Airport": "Tbilisi",
       "Country": "Georgia",
       "IATA code": "TBS"
     },
@@ -8778,17 +8778,17 @@
       "IATA code": "TGU"
     },
     {
-      "City/Airport": "Tehran (Teheran) - Mehrabad",
+      "City/Airport": "Tehran (Teheran)",
       "Country": "Iran",
       "IATA code": "THR"
     },
     {
-      "City/Airport": "Tekirdag - Corlu",
+      "City/Airport": "Tekirdag",
       "Country": "Turkey",
       "IATA code": "TEQ"
     },
     {
-      "City/Airport": "Tel Aviv - Ben Gurion International",
+      "City/Airport": "Tel Aviv",
       "Country": "Israel",
       "IATA code": "TLV"
     },
@@ -8808,12 +8808,12 @@
       "IATA code": "TCI"
     },
     {
-      "City/Airport": "Tenerife - Sur Reina Sofia",
+      "City/Airport": "Tenerife",
       "Country": "Spain",
       "IATA code": "TFS"
     },
     {
-      "City/Airport": "Tenerife - Norte Los Rodeos",
+      "City/Airport": "Tenerife",
       "Country": "Spain",
       "IATA code": "TFN"
     },
@@ -8863,7 +8863,7 @@
       "IATA code": "YQD"
     },
     {
-      "City/Airport": "Thessaloniki - Makedonia Apt.",
+      "City/Airport": "Thessaloniki",
       "Country": "Greece",
       "IATA code": "SKG"
     },
@@ -8913,7 +8913,7 @@
       "IATA code": "TSN"
     },
     {
-      "City/Airport": "Tijuana - Rodriguez",
+      "City/Airport": "Tijuana",
       "Country": "Mexico",
       "IATA code": "TIJ"
     },
@@ -8923,7 +8923,7 @@
       "IATA code": "TOD"
     },
     {
-      "City/Airport": "Tirana - Rinas",
+      "City/Airport": "Tirana",
       "Country": "Albania",
       "IATA code": "TIA"
     },
@@ -8953,12 +8953,12 @@
       "IATA code": "TYO"
     },
     {
-      "City/Airport": "Tokyo - Haneda",
+      "City/Airport": "Tokyo",
       "Country": "Japan",
       "IATA code": "HND"
     },
     {
-      "City/Airport": "Tokyo - Narita",
+      "City/Airport": "Tokyo",
       "Country": "Japan",
       "IATA code": "NRT"
     },
@@ -8978,12 +8978,12 @@
       "IATA code": "TWB"
     },
     {
-      "City/Airport": "Toronto - Billy Bishop Toronto City Airport",
+      "City/Airport": "Toronto",
       "Country": "Canada",
       "IATA code": "YTZ"
     },
     {
-      "City/Airport": "Toronto - Toronto Pearson International Airport",
+      "City/Airport": "Toronto",
       "Country": "Canada",
       "IATA code": "YYZ"
     },
@@ -9003,7 +9003,7 @@
       "IATA code": "TOU"
     },
     {
-      "City/Airport": "Toulouse - Blagnac Airport",
+      "City/Airport": "Toulouse",
       "Country": "France",
       "IATA code": "TLS"
     },
@@ -9048,7 +9048,7 @@
       "IATA code": "TSF"
     },
     {
-      "City/Airport": "Tri-Cities Regional (TN) /VA",
+      "City/Airport": "Tr",
       "Country": "USA",
       "IATA code": "TRI"
     },
@@ -9058,7 +9058,7 @@
       "IATA code": "TRS"
     },
     {
-      "City/Airport": "Tripoli - Tripoli International",
+      "City/Airport": "Tripoli",
       "Country": "Libya",
       "IATA code": "TIP"
     },
@@ -9093,7 +9093,7 @@
       "IATA code": "TUL"
     },
     {
-      "City/Airport": "Tunis - Carthage",
+      "City/Airport": "Tunis",
       "Country": "Tunisia",
       "IATA code": "TUN"
     },
@@ -9153,22 +9153,22 @@
       "IATA code": "UBA"
     },
     {
-      "City/Airport": "Uberlandia - Eduardo Gomes Airport",
+      "City/Airport": "Uberlandia",
       "Country": "Brazil",
       "IATA code": "UDI"
     },
     {
-      "City/Airport": "Ubon Ratchathani - Muang Ubon Airport",
+      "City/Airport": "Ubon Ratchathani",
       "Country": "Thailand",
       "IATA code": "UBP"
     },
     {
-      "City/Airport": "Udaipur - Dabok Airport",
+      "City/Airport": "Udaipur",
       "Country": "India",
       "IATA code": "UDR"
     },
     {
-      "City/Airport": "Uden - Volkel Airport",
+      "City/Airport": "Uden",
       "Country": "Netherlands",
       "IATA code": "UDE"
     },
@@ -9193,7 +9193,7 @@
       "IATA code": "UGO"
     },
     {
-      "City/Airport": "Ujung Pandang - Hasanudin Airport",
+      "City/Airport": "Ujung Pandang",
       "Country": "Indonesia",
       "IATA code": "UPG"
     },
@@ -9208,12 +9208,12 @@
       "IATA code": "UKI"
     },
     {
-      "City/Airport": "Ulaanbaatar - Buyant Uhaa Airport",
+      "City/Airport": "Ulaanbaatar",
       "Country": "Mongolia",
       "IATA code": "ULN"
     },
     {
-      "City/Airport": "Ulan-Ude",
+      "City/Airport": "Ula",
       "Country": "Russia",
       "IATA code": "UUD"
     },
@@ -9263,7 +9263,7 @@
       "IATA code": "UNI"
     },
     {
-      "City/Airport": "Unst (Shetland Island) - Baltasound Airport",
+      "City/Airport": "Unst (Shetland Island)",
       "Country": "United Kingdom",
       "IATA code": "UNT"
     },
@@ -9273,7 +9273,7 @@
       "IATA code": "UPL"
     },
     {
-      "City/Airport": "Upernavik - Upernavik Heliport",
+      "City/Airport": "Upernavik",
       "Country": "Greenland",
       "IATA code": "JUV"
     },
@@ -9313,12 +9313,12 @@
       "IATA code": "UPN"
     },
     {
-      "City/Airport": "Urubupunga - Ernesto Pochler Airport",
+      "City/Airport": "Urubupunga",
       "Country": "Brazil",
       "IATA code": "URB"
     },
     {
-      "City/Airport": "Uruguaiana - Ruben Berta Airport",
+      "City/Airport": "Uruguaiana",
       "Country": "Brazil",
       "IATA code": "URG"
     },
@@ -9333,7 +9333,7 @@
       "IATA code": "URZ"
     },
     {
-      "City/Airport": "Ushuaia - Islas Malvinas Airport",
+      "City/Airport": "Ushuaia",
       "Country": "Argentina",
       "IATA code": "USH"
     },
@@ -9343,7 +9343,7 @@
       "IATA code": "UTP"
     },
     {
-      "City/Airport": "Utica (NY) - Oneida County Airport",
+      "City/Airport": "Utica (NY)",
       "Country": "USA",
       "IATA code": "UCA"
     },
@@ -9418,12 +9418,12 @@
       "IATA code": "VDE"
     },
     {
-      "City/Airport": "Van - Ferit Melen",
+      "City/Airport": "Van",
       "Country": "Turkey",
       "IATA code": "VAN"
     },
     {
-      "City/Airport": "Vancouver - Vancouver International",
+      "City/Airport": "Vancouver",
       "Country": "Canada",
       "IATA code": "YVR"
     },
@@ -9458,7 +9458,7 @@
       "IATA code": "VLU"
     },
     {
-      "City/Airport": "Venice - Marco Polo",
+      "City/Airport": "Venice",
       "Country": "Italy",
       "IATA code": "VCE"
     },
@@ -9503,7 +9503,7 @@
       "IATA code": "VID"
     },
     {
-      "City/Airport": "Vientiane - Wattay",
+      "City/Airport": "Vientiane",
       "Country": "Lao PDR",
       "IATA code": "VTE"
     },
@@ -9543,7 +9543,7 @@
       "IATA code": "VIT"
     },
     {
-      "City/Airport": "Vitoria - Eurico de Aguiar Salles Airport",
+      "City/Airport": "Vitoria",
       "Country": "Brazil",
       "IATA code": "VIX"
     },
@@ -9588,22 +9588,22 @@
       "IATA code": "WMB"
     },
     {
-      "City/Airport": "Warsaw - Frédéric Chopin",
+      "City/Airport": "Warsaw",
       "Country": "Poland",
       "IATA code": "WAW"
     },
     {
-      "City/Airport": "Washington DC - Baltimore Washington International",
+      "City/Airport": "Washington DC",
       "Country": "USA",
       "IATA code": "BWI"
     },
     {
-      "City/Airport": "Washington DC - Dulles International",
+      "City/Airport": "Washington DC",
       "Country": "USA",
       "IATA code": "IAD"
     },
     {
-      "City/Airport": "Washington DC - Ronald Reagan National",
+      "City/Airport": "Washington DC",
       "Country": "USA",
       "IATA code": "DCA"
     },
@@ -9718,7 +9718,7 @@
       "IATA code": "WHM"
     },
     {
-      "City/Airport": "Wien (Vienna) - Vienna International",
+      "City/Airport": "Wien (Vienna)",
       "Country": "Austria",
       "IATA code": "VIE"
     },
@@ -9758,12 +9758,12 @@
       "IATA code": "WUN"
     },
     {
-      "City/Airport": "Windhoek - Eros",
+      "City/Airport": "Windhoek",
       "Country": "Namibia",
       "IATA code": "ERS"
     },
     {
-      "City/Airport": "Windhoek - Hosea Kutako International",
+      "City/Airport": "Windhoek",
       "Country": "Namibia",
       "IATA code": "WDH"
     },
@@ -9823,7 +9823,7 @@
       "IATA code": "XMN"
     },
     {
-      "City/Airport": "Xi'an - Xianyang",
+      "City/Airport": "Xi'an",
       "Country": "Shaanxi, PR China",
       "IATA code": "XIY"
     },
@@ -9858,7 +9858,7 @@
       "IATA code": "YNB"
     },
     {
-      "City/Airport": "Yangon (Rangoon) - Mingaladon",
+      "City/Airport": "Yangon (Rangoon)",
       "Country": "Myanmar",
       "IATA code": "RGN"
     },
@@ -9873,7 +9873,7 @@
       "IATA code": "YZF"
     },
     {
-      "City/Airport": "Yekaterinburg - Koltsovo Airport",
+      "City/Airport": "Yekaterinburg",
       "Country": "Russia",
       "IATA code": "SVX"
     },
@@ -9903,7 +9903,7 @@
       "IATA code": "ZAD"
     },
     {
-      "City/Airport": "Zagreb - Zagreb Airport Pleso",
+      "City/Airport": "Zagreb",
       "Country": "Croatia (Hrvatska)",
       "IATA code": "ZAG"
     },
@@ -9933,7 +9933,7 @@
       "IATA code": "OUZ"
     },
     {
-      "City/Airport": "Zurich (Zürich) - Kloten",
+      "City/Airport": "Zurich (Zürich)",
       "Country": "Switzerland",
       "IATA code": "ZRH"
     }
